@@ -1,0 +1,522 @@
+[
+  {
+    "question": "Чем образована суставная ямка articulatio radiocarpalis?",
+    "options": [
+      "запястная суставная поверхность лучевой кости и суставной диск",
+      "кости проксимального ряда запястья",
+      "суставная поверхность локтевой и лучевой кости",
+      "кости проксимального и дистального рядов запястья"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что образует суставную головку articulatio radiocarpalis?",
+    "options": [
+      "кости проксимального ряда запястья",
+      "запястная суставная поверхность лучевой кости и суставной диск",
+      "суставная поверхность локтевой и лучевой кости",
+      "кости проксимального и дистального рядов запястья"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Дайте характеристику articulatio radiocarpalis",
+    "options": [
+      "сложный, комплексный",
+      "сложный, некомплексный",
+      "простой, комбинированный",
+      "простой, не комбинированный"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие движения не совершаются в лучезапястном суставе?",
+    "options": [
+      "rotatio",
+      "circumductio",
+      "flexion, extension",
+      "adductio, abduction"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая связка укрепляет лучезапястный сустав?",
+    "options": [
+      "ligamentum radiocarpale dorsale",
+      "ligamentum collaterale radiale",
+      "ligamentum anularis",
+      "ligamentum trapezoideum"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Аrticulatio mediocarpalis образован",
+    "options": [
+      "костями проксимального и дистального рядов запястья",
+      "костями дистального ряда запястья и костями пясти",
+      "локтевой костью и костями проксимального ряда запястья",
+      "между соседними костями в пределах одного ряда запястья"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какому виду соединений относится symphysis pubica?",
+    "options": [
+      "гемиартроз",
+      "синдесмоз",
+      "диартроз",
+      "синостоз"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Дайте характеристику articulationes interphalangeae manus?",
+    "options": [
+      "блоковидные, одноосные",
+      "плоские, многоосные",
+      "седловидные, многоосные",
+      "вращательные, одноосные"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где расположена ligamentum transversum scapulae superius?",
+    "options": [
+      "над вырезкой лопатки, превращая ее в надлопаточное отверстие",
+      "между клювовидным отростком и акромионом",
+      "между остью лопатки и задним краем суставной впадины",
+      "под вырезкой лопатки"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какое движение выполняется в межфаланговых суставах кисти?",
+    "options": [
+      "flexion, extensio",
+      "circumductio",
+      "rotatio",
+      "adductio, abductio"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что относится к синдесмозам свободной нижней конечности?",
+    "options": [
+      "membrana interossea cruris",
+      "membrana obturatoria",
+      "ligamentum sacrotuberale",
+      "ligamentum sacrospinale"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где расположена membrana obturatoria?",
+    "options": [
+      "в запирательном отверстии",
+      "между костями предплечья",
+      "между костями голени",
+      "в большом седалищном отверстии"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что соединяет ligamentum sacrotuberale?",
+    "options": [
+      "латеральный край крестца и седалищный бугор",
+      "латеральный край крестца и седалищная ость",
+      "кости предплечья между собой",
+      "кости голени между собой"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что соединяет ligamentum sacrospinale?",
+    "options": [
+      "латеральный край крестца и седалищную ость",
+      "латеральный край крестца и седалищный бугор",
+      "латеральный край крестца и задненижнюю ость",
+      "кости голени между собой"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Чем образован articulatio sacroiliaca?",
+    "options": [
+      "ушковидными суставными поверхностями крестца и подвздошной кости",
+      "суставной бугристостью крестца и подвздошной кости",
+      "крылом подвздошной кости и ушковидным отростком крестца",
+      "симфизиальными поверхностями лобковых костей"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Дайте характеристику articulatio sacroiliaca",
+    "options": [
+      "простой, комбинированный",
+      "простой, некомбинированный",
+      "сложный, комплексный",
+      "сложный, некомплексный"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая связка расположена по передней поверхности articulatio sacroiliaca?",
+    "options": [
+      "ligamentum sacroiliacum anterius",
+      "ligamentum sacroiliacum posterius",
+      "ligamentum iliolumbale",
+      "ligamentum sacroiliacum interosseum"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая связка расположена по задней поверхности articulatio sacroiliaca?",
+    "options": [
+      "ligamentum sacroiliacum posterius",
+      "ligamentum sacroiliacum anterius",
+      "ligamentum iliolumbale",
+      "ligamentum sacroiliacum interosseum"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая связка располагается между tuberositas sacralis и tuberositas iliaca?",
+    "options": [
+      "ligamentum sacroiliacum interosseum",
+      "ligamentum sacroiliacum anterius",
+      "ligamentum sacroiliacum posterius",
+      "ligamentum iliolumbale"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая связка расположена над вырезкой лопатки, превращая ее в надлопаточное отверстие?",
+    "options": [
+      "ligamentum transversum scapulae superius",
+      "ligamentum transversum scapulae inferius",
+      "ligamentum coracoacromiale",
+      "ligamentum coracohumerale"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Дайте характеристику articulatio coxae",
+    "options": [
+      "простой, некомбинированный",
+      "простой, комбинированный",
+      "сложный, комплексный",
+      "сложный, некомплексный"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какими костями образован тазобедренный сустав?",
+    "options": [
+      "головкой бедренной кости и вертлужной впадиной",
+      "головкой бедренной кости и запирательным отверстием",
+      "ушковидными суставными поверхностями крестца и подвздошной кости",
+      "головкой бедренной кости и ушковидными суставными поверхностями крестца"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая часть вертлужной впадины покрыта гиалиновым хрящом?",
+    "options": [
+      "facies lunata",
+      "limbus acetabuli",
+      "fossa acetabuli",
+      "incisura acetabuli"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Куда прикрепляется labrum acetabuli?",
+    "options": [
+      "к краю вертлужной впадины",
+      "к гребню подвздошной кости",
+      "к полулунной поверхности вертлужной впадины",
+      "к краям запирательного отверстия"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая связка перекидывается через вырезку вертлужной впадины?",
+    "options": [
+      "ligamentum transversum acetabuli",
+      "ligamentum capitis femoris",
+      "ligamentum ischiofemorale",
+      "ligamentum pubofemorale"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где располагается ligamentum capitis femoris?",
+    "options": [
+      "в полости тазобедренного сустава",
+      "вплетена в капсулу тазобедренного сустава снаружи",
+      "вплетена в капсулу тазобедренного сустава изнутри",
+      "является внекапсульной связкой"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие движения в тазобедренном суставе ограничивает ligamentum iliofemorale?",
+    "options": [
+      "чрезмерное разгибание и пронацию бедра",
+      "чрезмерное отведение и супинацию бедра",
+      "чрезмерное сгибание и наружную ротацию бедра",
+      "чрезмерное отведение и вращение бедра"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какими костями образован articulatio genus?",
+    "options": [
+      "бедренной, большеберцовой костями и надколенником",
+      "бедренной, большеберцовой и малоберцовой костями",
+      "бедренной, малоберцовой костями и надколенником",
+      "большеберцовой, малоберцовой костями и надколенником"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что увеличивает конгруэнтность суставных поверхностей коленного сустава?",
+    "options": [
+      "meniscus articularis",
+      "labrum articularis",
+      "villi synovialis",
+      "bursa synovialis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какой по функции articulatio genus?",
+    "options": [
+      "двухосный",
+      "одноосный",
+      "многоосный",
+      "трехосный"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая связка расположена между остью лопатки и задним краем суставной впадины?",
+    "options": [
+      "ligamentum transversum scapulae inferius",
+      "ligamentum transversum scapulae superius",
+      "ligamentum coracoacromiale",
+      "ligamentum coracohumerale"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какую форму имеет meniscus medialis?",
+    "options": [
+      "форму полумесяца",
+      "округлую",
+      "треугольную",
+      "квадратную"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какую форму имеет meniscus lateralis?",
+    "options": [
+      "округлую",
+      "форму полумесяца",
+      "треугольную",
+      "квадратную"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая связка соединяет оба мениска между собой спереди?",
+    "options": [
+      "ligamentum transversum genus",
+      "ligamentum popliteum obliquum",
+      "ligamentum meniscofemorale anterius",
+      "ligamentum cruciatum anterius"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие связки укрепляют коленный сустав по задней поверхности?",
+    "options": [
+      "ligg. popliteum obliquum et popliteum arcuatum",
+      "ligg. cruciatum anterius et cruciatum posterius",
+      "ligg. collaterale fibulare et collaterale tibiale",
+      "ligg. patellae et transversum genus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где расположены ligg. popliteum obliquum et popliteum arcuatum?",
+    "options": [
+      "по задней поверхности articulatio genus",
+      "по медиальной поверхности articulatio talocruralis",
+      "по верхней поверхности articulatio coxae",
+      "по нижней поверхности articulatio humeri"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Дайте характеристику articulatio genus",
+    "options": [
+      "сложный, комплексный, некомбинированный",
+      "сложный, некомплексный, комбинированный",
+      "простой, комплексный, комбинированный",
+      "простой, некомплексный, некомбинированный"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие связки коленного сустава относятся к внутрикапсульным?",
+    "options": [
+      "ligg. cruciatum anterius et cruciatum posterius",
+      "ligg. popliteum obliquum et popliteum arcuatum",
+      "ligg. collaterale fibulare et collaterale tibiale",
+      "ligg. patellae et transversum genus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "За что ответственны крестообразные связки коленного сустава?",
+    "options": [
+      "за стабильность в сагиттальной плоскости",
+      "за стабильность во фронтальной плоскости",
+      "за стабильность в косой плоскости",
+      "за увеличение амплитуды движений"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие связки коленного сустава относятся внекапсульным?",
+    "options": [
+      "ligg. collaterale fibulare et collaterale tibiale",
+      "ligg. cruciatum anterius et cruciatum posterius",
+      "ligg. patellae et transversum genus",
+      "ligg. meniscofemorale anterius et posterius"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Посредством чего соединены между собой диафизы костей голени?",
+    "options": [
+      "membrana interossea cruris",
+      "ligamentum collaterale fibulare",
+      "ligamentum collaterale tibiale",
+      "membrana interossea antebrachii"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Из каких частей состоит ligamentum coracoclaviculare?",
+    "options": [
+      "ligamentum trapezoideum et ligamentum conoideum",
+      "ligamentum transversum lateralis et ligamentum transversum medialis",
+      "ligamentum scapulae superius et ligamentum scapulae inferius",
+      "ligamentum sternoclaviculareanterius et posterius"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Посредством чего соединены между собой проксимальные концы костей голени?",
+    "options": [
+      "articulatio tibiofibularis",
+      "ligamentum collaterale fibulare superior",
+      "ligamentum collaterale tibiale inferior",
+      "membrana interossea antebrachii"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Куда прикрепляется membrana interossea cruris?",
+    "options": [
+      "к межкостным краям костей голени",
+      "к межкостным краям костей предплечья",
+      "по краю запирательного отверстия",
+      "по краю вертлужной впадины"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Между какими костями расположен articulatio talocruralis?",
+    "options": [
+      "tibia, fibula, talus",
+      "tibia, fibula, calcaneus",
+      "tibia, talus, calcaneus",
+      "fibula, talus, calcaneus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие кости образуют суставную ямку articulatio talocruralis?",
+    "options": [
+      "tibia, fibula",
+      "talus, calcaneus",
+      "femur, fibula",
+      "tibia, patella"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Чем образована суставная головка articulatio talocruralis?",
+    "options": [
+      "trochlea tali",
+      "tuber calcanei",
+      "malleolus medialis",
+      "malleolus lateralis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая связка укрепляет articulatio talocruralis с медиальной стороны?",
+    "options": [
+      "ligamentum deltoideum",
+      "ligamentum talofibulare anterius",
+      "ligamentum calcaneofibulare",
+      "ligamentum collaterale laterale"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие кости образуют сустав Лисфранка?",
+    "options": [
+      "кубовидная и три клиновидные кости сзади, а также пять плюсневых костей спереди",
+      "пять плюсневых костей сзади и пять основных фаланг пальцев стопы спереди",
+      "пяточная кость и таранная кость сзади, а кубовидная и ладьевидная кости спереди",
+      "основные и средние фаланги пальцев стопы"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие кости образуют Шопаров сустав?",
+    "options": [
+      "пяточная кость и таранная кость сзади, а кубовидная и ладьевидная кости спереди",
+      "основные и средние фаланги пальцев стопы",
+      "кубовидная и три клиновидные кости сзади, а также пять плюсневых костей спереди",
+      "пять плюсневых костей сзади и пять основных фаланг пальцев стопы спереди"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Дайте характеристику articulationes interphalangeae pedis?",
+    "options": [
+      "блоковидные, одноосные",
+      "плоские, многоосные",
+      "седловидные, многоосные",
+      "вращательные, одноосные"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какое движение выполняется в межфаланговых суставах стопы?",
+    "options": [
+      "flexion, extensio",
+      "circumductio",
+      "rotatio",
+      "adductio, abductio"
+    ],
+    "answer": 0
+  }
+]

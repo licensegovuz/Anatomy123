@@ -1,0 +1,512 @@
+[
+  {
+    "question": "Какая из названных связок препятствует чрезмерному разгибанию позвоночника?",
+    "options": [
+      "ligamentum longitudinale anterius",
+      "ligamenta flava",
+      "ligamentum supraspinale",
+      "ligamentum nuchae"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие связки натянуты между дугами позвонков?",
+    "options": [
+      "ligamenta flava",
+      "ligamenta interspinalia",
+      "ligamenta intertransversaria",
+      "ligamentum supraspinale"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что относится к постоянным синхондрозам позвоночника?",
+    "options": [
+      "discus intervertebralis",
+      "ligamenti vertebrales",
+      "articulations vertebrales",
+      "membrana tectoria"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какой сустав не относится к articulation columnae vertebralis?",
+    "options": [
+      "articulatio costosternalis",
+      "articulatio intervertebralis",
+      "articulatio lumbosacralis",
+      "articulatio sacrococcygea"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Чем образован articulatio intervertebralis?",
+    "options": [
+      "суставными отростками соседних позвонков",
+      "крестцом и подвздошной костью",
+      "хрящами II−VII ребер и грудиной",
+      "мечевидным отростком и телом грудины"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Дайте характеристику articulatio intervertebralis",
+    "options": [
+      "простой, комбинированный, плоский",
+      "сложный, комплексный, цилиндрический",
+      "сложный, некомбинированный, шаровидный",
+      "простой, комплексный, эллипсовидный"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Чем образован articulatio lumbosacralis?",
+    "options": [
+      "суставными отростками V поясничного позвонка и крестца",
+      "суставными отростками соседних позвонков",
+      "хрящами II−VII ребер и грудиной",
+      "мечевидным отростком и телом грудины"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Дайте определение juncturae fibrosae",
+    "options": [
+      "соединение костей при помощи соединительной ткани",
+      "соединение костей при помощи костной ткани",
+      "соединение костей при помощи мышечной ткани",
+      "соединение костей при помощи хрящевой ткани"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Дайте характеристику articulatio lumbosacralis",
+    "options": [
+      "простой, комбинированный, плоский",
+      "сложный, комплексный, цилиндрический",
+      "сложный, некомбинированный, шаровидный",
+      "простой, комплексный, эллипсовидный"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая связка стабилизирует articulatio lumbosacralis?",
+    "options": [
+      "ligamentum iliolumbale",
+      "ligamenta flava",
+      "ligamenta interspinalia",
+      "ligamenta supraspinale"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Чем образован articulatio sacrococcygea?",
+    "options": [
+      "крестцом и копчиком",
+      "суставными отростками V поясничного позвонка и крестца",
+      "суставными отростками соседних позвонков",
+      "хрящами II−VII ребер и грудиной"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько связок укрепляет articulatio sacrococcygea?",
+    "options": [
+      "4",
+      "1",
+      "2",
+      "10"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая связка укрепляет articulatio sacrococcygea?",
+    "options": [
+      "ligamentum sacrococcygeum laterale",
+      "ligamentum iliolumbale",
+      "ligamentum nuchae",
+      "ligamentum iliofemoralis superior"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Дайте характеристику articulatio atlantooccipitalis",
+    "options": [
+      "простой, комбинированный, эллипсовидный",
+      "сложный, комплексный, цилиндрический",
+      "сложный, некомбинированный, шаровидный",
+      "простой, комплексный, плоский"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Чем образован articulatio atlantooccipitalis?",
+    "options": [
+      "condylus occipitalis et massa laretalis atlantis",
+      "fossa mandibularis et caput mandibulae",
+      "massa laretalis atlantis et facies superior axis",
+      "dens et fovea dentis atlantis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какой articulatio atlantooccipitalis по функции?",
+    "options": [
+      "двухосный",
+      "одноосный",
+      "многоосный",
+      "трехосный"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие движения не выполняет articulatio atlantooccipitalis?",
+    "options": [
+      "rotatio",
+      "flexio et extensio",
+      "extensio et abductio",
+      "circumductio"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Чем укреплены атлантозатылочные суставы?",
+    "options": [
+      "membranae atlantooccipitales anteror et posterior",
+      "ligamentum tranversum atlantis et fasciculi longitudinales",
+      "membrana tectoria et ligamenta alaria",
+      "ligamentum cruciforme atlantis et ligamenta alaria"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "При помощи чего соединяются кости в juncturae cartilagineae?",
+    "options": [
+      "при помощи хрящевой ткани",
+      "при помощи фиброзной ткани",
+      "при помощи костной ткани",
+      "при помощи мышечной ткани"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Дайте характеристику articulatio atlantoaxialis mediana",
+    "options": [
+      "сложный, комбинированный",
+      "простой, комплексный",
+      "простой, комбинированный",
+      "сложный, комплексный"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какой articulatio atlantoaxialis mediana по форме?",
+    "options": [
+      "цилиндрический",
+      "эллипсовидный",
+      "плоский",
+      "шаровидный"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какой articulatio atlantoaxialis mediana по функции?",
+    "options": [
+      "одноосный",
+      "двухосный",
+      "трехосный",
+      "многоосный"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какое движение совершается в articulatio atlantoaxialis mediana?",
+    "options": [
+      "rotatio",
+      "flexio et extensio",
+      "extensio et abductio",
+      "circumductio"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Дайте характеристику articulatio atlantoaxialis lateralis",
+    "options": [
+      "простой, комбинированный",
+      "простой, комплексный",
+      "сложный, комбинированный",
+      "сложный, комплексный"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какой articulatio atlantoaxialis lateralis по форме?",
+    "options": [
+      "плоский",
+      "эллипсовидный",
+      "блоковидный",
+      "шаровидный"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какой articulatio atlantoaxialis lateralis по функции?",
+    "options": [
+      "многоосный",
+      "двухосный",
+      "неподвижный",
+      "одноосный"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие движения совершаются в articulatio atlantoaxialis lateralis?",
+    "options": [
+      "скользящие, с малой амплитудой",
+      "с большой амплитудой",
+      "соединение неподвижное",
+      "только круговые"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Чем образована крестообразная связка атланта?",
+    "options": [
+      "ligamentum tranversum atlantis et fasciculi longitudinales",
+      "ligamenta alaria et ligamentum apicis dentis",
+      "membrana tectoria et membrana atlantooccipitalis anteror",
+      "membranae atlantooccipitales anterior et posterior"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какой из нижеперечисленных суставов не участвует в движениях головы?",
+    "options": [
+      "articulatio sacrococcygea",
+      "articulatio atlantoaxialis lateralis",
+      "articulatio atlantoaxialis mediana",
+      "articulatio atlantooccipitalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Как соединяются кости в synostoses?",
+    "options": [
+      "при помощи костной ткани",
+      "при помощи мышечной ткани",
+      "при помощи хрящевой ткани",
+      "при помощи фиброзной ткани"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где расположена membrana intercostalis externa?",
+    "options": [
+      "между хрящевыми частями рёбер",
+      "между рёбрами вблизи позвоночного столба",
+      "на протяжении всего межрёберного промежутка",
+      "между рёбрами и грудиной"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где расположена membrana intercostalis interna?",
+    "options": [
+      "между рёбрами вблизи позвоночного столба",
+      "между хрящевыми частями рёбер",
+      "на протяжении всего межрёберного промежутка",
+      "между рёбрами и грудиной"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К каким соединениям относится membrana intercostalis externa?",
+    "options": [
+      "синдесмозы грудной клетки",
+      "симфизы грудной клетки",
+      "синхондрозы грудной клетки",
+      "суставы грудной клетки"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что из нижеперечисленного относится к synchondroses thoracis?",
+    "options": [
+      "симфиз мечевидного отростка",
+      "наружная межрёберная мембрана",
+      "внутренняя межрёберная мембрана",
+      "лучистая связка головки ребра"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие суставы составляют рёберно-позвоночные суставы?",
+    "options": [
+      "articulatio capitis costae et articulatio costotransversaria",
+      "articulatio sternocostalis et articulatio interchondralis",
+      "articulatio costochondralis et articulatio interchondralis",
+      "articulatio medialis et articulatio lateralis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Чем образован articulatio capitis costae?",
+    "options": [
+      "рёберной ямкой на теле грудного позвонка и суставной поверхностью головки ребра",
+      "бугорком ребра и поперечным отростком соответствующего грудного позвонка",
+      "хрящами II−VII рёбер и грудиной",
+      "между костной и хрящевой частями рёбер"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Чем образован articulatio costotransversaria?",
+    "options": [
+      "бугорком ребра и поперечным отростком соответствующего грудного позвонка",
+      "рёберной ямкой на теле грудного позвонка и суставной поверхностью головки ребра",
+      "хрящами II−VII рёбер и грудиной",
+      "между костной и хрящевой частями рёбер"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Дайте характеристику articulatio capitis costae у I, XI, XII рёбер",
+    "options": [
+      "простой, комбинированный",
+      "сложный, комплексный",
+      "сложный, некомбинированный",
+      "простой, некомбинированный"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Дайте характеристику articulatio capitis costae у II-X рёбер",
+    "options": [
+      "сложный, комбинированный",
+      "простой, некомбинированный",
+      "простой, комплексный",
+      "сложный, некомбинированный"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какой по форме articulatio capitis costae у I, XI, XII рёбер?",
+    "options": [
+      "шаровидный",
+      "седловидный",
+      "плоский",
+      "цилиндрический"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что относится к непрерывным соединительнотканным соединениям?",
+    "options": [
+      "syndesmosis",
+      "synchondroses",
+      "diartrosis",
+      "synostoses"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какой по форме articulatio capitis costae у II-X ребер?",
+    "options": [
+      "седловидный",
+      "плоский",
+      "цилиндрический",
+      "шаровидный"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какой по форме articulatio costotransversaria?",
+    "options": [
+      "цилиндрический",
+      "плоский",
+      "чашеобразный",
+      "шаровидный"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какой по функции articulatio costotransversaria?",
+    "options": [
+      "одноосный",
+      "двухосный",
+      "трехосный",
+      "многоосный"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько связок укрепляют сустав головки ребра?",
+    "options": [
+      "1",
+      "5",
+      "7",
+      "4"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько связок укрепляют сустав бугорка ребра?",
+    "options": [
+      "3",
+      "1",
+      "7",
+      "9"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие связки укрепляют грудино-рёберные суставы?",
+    "options": [
+      "ligamenta sternocostalia radiata",
+      "ligamentum costotranversarium superius",
+      "ligamentum costotransversarium laterale",
+      "ligamentum costotransversarium"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какой сустав образуют сустав головки ребра и сустав бугорка ребра?",
+    "options": [
+      "articulatio costovertebralis",
+      "articulatio sternocostalis",
+      "articulatio costochondralis",
+      "articulatio interchondralis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие суставы укрепляются лучистыми грудино-рёберными связками?",
+    "options": [
+      "articulatio sternocostalis",
+      "articulatio costovertebralis",
+      "articulatio intervertebralis",
+      "articulatio atlantooccipitalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какой сустав образован бугорком ребра и поперечным отростком соответствующего грудного позвонка?",
+    "options": [
+      "articulatio costotransversaria",
+      "articulatio sternocostalis",
+      "articulatio interchondralis",
+      "articulatio intervertebralis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какой сустав образован рёберной ямкой на теле грудного позвонка и суставной поверхностью головки ребра?",
+    "options": [
+      "articulatio capitis costae",
+      "articulatio sternocostalis",
+      "articulatio interchondralis",
+      "articulatio intervertebralis"
+    ],
+    "answer": 0
+  }
+]

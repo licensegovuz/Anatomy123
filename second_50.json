@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Какая мышца определяет форму плеча?",
+    "options": [
+      "m. deltoideus",
+      "m. supraspinatus",
+      "m. brachialis",
+      "m. biceps brachii"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая мышца плечевого пояса прикрепляется к малому бугорку плечевой кости?",
+    "options": [
+      "m. subscapularis",
+      "m. supraspinatus",
+      "m. teres minor",
+      "m. infraspinatus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относится m. supraspinatus?",
+    "options": [
+      "мышцы плечевого пояса",
+      "задняя группа мышц плеча",
+      "мышцы возвышения мизинца",
+      "передняя группа мышц предплечья"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где берет начало надостная мышца?",
+    "options": [
+      "fossa supraspinata scapulae",
+      "fossa infraspinata scapulae",
+      "fossa subscapularis",
+      "angulus inferior scapulae"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Укажите функцию m. supraspinatus",
+    "options": [
+      "инициирует отведение плеча",
+      "пронирует и разгибает плечо",
+      "приводит плечо",
+      "сгибает плечо"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Куда прикрепляется надостная мышца?",
+    "options": [
+      "tuberculum majus humeri",
+      "tuberositas deltoidea",
+      "tuberculum minus humeri",
+      "crista tuberculi minores humeri"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая мышца берет начало от поверхности подостной ямки лопатки?",
+    "options": [
+      "m. infraspinatus",
+      "m. coracobrachialis",
+      "m. anconeus",
+      "m. pronatorquadratus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие мышцы участвуют в образовании «ротаторной манжетки»?",
+    "options": [
+      "m. infraspinatus, m. supraspinatus",
+      "m. biceps brachii, m. brachialis",
+      "m. triceps brachii, m. anconeus",
+      "m. subscapularis, m. teres major"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Укажите функцию m. teres minor?",
+    "options": [
+      "вращает плечо кнаружи",
+      "разгибает предплечье",
+      "сгибает плечо",
+      "пронирует предплечье"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие мышцы плечевого пояса вращают плечо кнаружи?",
+    "options": [
+      "m. teres minor, m. infraspinatus",
+      "m. supraspinatus, m. teres major",
+      "m. subscapularis, m. teres minor",
+      "m. deltoideus, m. teres major"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где берет начало большая круглая мышца?",
+    "options": [
+      "facies dorsalis angulus inferior scapulae",
+      "processus coracoideus scapulae",
+      "tuberculum majus humeri",
+      "extermitas acromialis claviculae"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите место прикрепления большой круглой мышцы",
+    "options": [
+      "crista tuberculi minores humeri",
+      "processus coracoideus scapulae",
+      "tuberositas deltoidea",
+      "extermitas acromialis claviculae"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая из указанных мышц относится к мышцам плечевого пояса?",
+    "options": [
+      "m. subscapularis",
+      "m. coracobrachialis",
+      "m. pronator teres",
+      "m. brachioradialis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая мышца при сокращении заводит руку за спину?",
+    "options": [
+      "m. teres major",
+      "m. anconeus",
+      "m. subclavia",
+      "m. biceps brachii"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите место прикрепления подлопаточной мышцы",
+    "options": [
+      "tuberculum minus humeri",
+      "collum anatomicum humeri",
+      "tuberositas deltoidea",
+      "tuberculum majus humeri"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сухожилия каких мышц вплетаются в капсулу плечевого сустава?",
+    "options": [
+      "m. infraspinatus, m. supraspinatus",
+      "m. teres major, m. deltoideus",
+      "m. biceps brachii, m. coracobrachialis",
+      "m. brachialis, m. triceps brachii"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "На какие группы делятся мышцы плеча по топографическому принципу?",
+    "options": [
+      "передняя и задняя группы",
+      "поверхностные и глубокие мышцы",
+      "наружные и внутренние мышцы",
+      "латеральная и медиальная группы"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "На какие группы делятся мышцы плеча по функциональному принципу?",
+    "options": [
+      "сгибатели и разгибатели плеча и предплечья",
+      "сгибатели и пронаторы предплечья и кисти",
+      "разгибатели и супинаторы предплечья и кисти",
+      "пронаторы и супинаторы плеча и предплечья"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К каким мышцам относится передняя группа мышц плеча?",
+    "options": [
+      "сгибатели плеча и предплечья",
+      "разгибатели плеча и предплечья",
+      "пронаторы предплечья и кисти",
+      "супинаторы предплечья и кисти"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какую функцию выполняет задняя группа мышц плеча?",
+    "options": [
+      "разгибают плечо и предплечье",
+      "пронируют предплечье и кисть",
+      "супинируют предплечье и кисть",
+      "сгибают плечо и предплечье"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие мышцы располагаются в передней группе мышц плеча?",
+    "options": [
+      "m. biceps brachii, m. coracobrachialis, m. brachialis",
+      "m. triceps brachii, m. anconeus, m. palmaris brevis",
+      "m. pronator teres, m. pronator quadratus, mm. lumbricales",
+      "m. brachioradialis, m. supinator, m. palmaris longus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие мышцы располагаются в задней группе мышц плеча?",
+    "options": [
+      "m. triceps brachii, m. anconeus",
+      "m. biceps brachii, m. coracobrachialis, m. brachialis",
+      "m. pronator teres, m. pronator quadratus, mm. lumbricales",
+      "m. brachioradialis, m. supinator, m. palmaris longus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая из указанных мышц относится к сгибателям плеча и предплечья?",
+    "options": [
+      "m. biceps brachii",
+      "m. anconeus",
+      "m. pronator teres",
+      "m. palmaris longus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая из указанных мышц относится к мышцам плеча?",
+    "options": [
+      "m. anconeus",
+      "m. teres major",
+      "m. infraspinatus",
+      "m. deltoideus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где начинается сухожилие длинной головки двуглавой мышцы плеча?",
+    "options": [
+      "tuberculum supraglenoidale scapulae",
+      "tuberculum majus humeri",
+      "spina scapulae",
+      "crista tuberculi minoris humeri"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где начинается сухожилие короткой головки двуглавой мышцы плеча?",
+    "options": [
+      "processus coracoideus scapulae",
+      "tuberculum infraglenoidale scapulae",
+      "tuberculum conoideum claviculae",
+      "spina scapulae"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Укажите место прикрепления сухожилия двуглавой мышцы плеча",
+    "options": [
+      "tuberositas radii",
+      "tuberositas deltiodea",
+      "processus styloideus ulnae",
+      "crista musculi supinatori ulnae"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие мышцы начинаются от клювовидного отростка лопатки?",
+    "options": [
+      "m. coracobrachialis, caput breve m. bicipitis brachii",
+      "m. brachialis, caput longum m. bicipitis brachii",
+      "m. anconeus, caput laterale m. tricipitis brachii",
+      "m. brachioradialis, caput mediale m. tricipitis brachii"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где на плечевой кости залегает сухожилие длинной головки двуглавой мышцы плеча?",
+    "options": [
+      "в sulcus intertubercularis",
+      "в sulcus spiralis",
+      "в fossa coronoidea",
+      "в fossa olecrani"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что представляет собой lacertus fibrosus?",
+    "options": [
+      "апоневроз двуглавой мышцы плеча",
+      "место прикрепления локтевой мышцы",
+      "удерживатель сухожилий разгибателей",
+      "синовиальные влагалища сухожилий сгибателей"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какую функцию выполняет m. biceps brachii?",
+    "options": [
+      "супинирует предплечье и сгибает его в локтевом суставе",
+      "разгибает предплечье в локтевом суставе",
+      "пронирует предплечье",
+      "поднимает лопатку"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где начинается клювовидно-плечевая мышца?",
+    "options": [
+      "processus coracoideus scapulae",
+      "tuberculum infraglenoidale scapulae",
+      "tuberculum conoideum claviculae",
+      "spina scapulae"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая мышца прикрепляется к медиальной поверхности плечевой кости?",
+    "options": [
+      "m. coracobrachialis",
+      "m. anconeus",
+      "m. supinator",
+      "m. pronator quadratus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Куда прикрепляется клювовидно-плечевая мышца?",
+    "options": [
+      "corpus humeri",
+      "tuberositas radii",
+      "tuberositas deltiodea",
+      "processus styloideus ulnae"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где берет начало передний пучок m. deltoideus?",
+    "options": [
+      "extremitas acromialis claviculae",
+      "acromion",
+      "spina scapulae",
+      "tuberculum infraglenoidale scapulae"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "В каких движениях участвует m. coracobrachialis?",
+    "options": [
+      "сгибание и приведение плеча",
+      "сгибание предплечья",
+      "разгибание предплечья",
+      "отведение кисти"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Синергистом какой мышцы является плечевая мышца?",
+    "options": [
+      "m. biceps brachii",
+      "m. triceps brachii",
+      "m. anconeus",
+      "m. pronator teres"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какую функцию выполняет m. brachialis?",
+    "options": [
+      "сгибает предплечье в локтевом суставе",
+      "разгибает предплечье в локтевом суставе",
+      "пронирует предплечье",
+      "поднимает лопатку"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Куда прикрепляется плечевая мышца?",
+    "options": [
+      "tuberositas ulnae",
+      "corpus humeri",
+      "tuberositas deltiodea",
+      "processus styloideus radii"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие головки различают в трехглавой мышце плеча?",
+    "options": [
+      "caput longum, mediale, laterale",
+      "caput longum, brevis, intermedium",
+      "caput superficialis, profundum",
+      "caput superior, inferior"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите головки двуглавой мышцы плеча",
+    "options": [
+      "caput longum, brevis",
+      "caput mediale, laterale",
+      "caput superficialis, profundum",
+      "caput superior, inferior"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где начинается длинная головка трехглавой мышцы плеча?",
+    "options": [
+      "tuberculum infraglenoidale scapulae",
+      "tuberculum majus humeri",
+      "spina scapulae",
+      "crista tuberculi minoris humeri"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Куда прикрепляется трехглавая мышца плеча?",
+    "options": [
+      "olecranon",
+      "caput radii",
+      "tuberositas ulnae",
+      "corpus radii"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какую функцию выполняет m. triceps brachii?",
+    "options": [
+      "разгибает предплечье в локтевом суставе",
+      "сгибает предплечье в локтевом суставе",
+      "пронирует предплецье",
+      "поднимает лопатку"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Синергистом какой мышцы является локтевая мышца?",
+    "options": [
+      "m. triceps brachii",
+      "m. biceps brachii",
+      "m. brachialis",
+      "m. pronator teres"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где берет начало средний пучок m. deltoideus?",
+    "options": [
+      "acromion",
+      "spina scapulae",
+      "tuberculum infraglenoidale scapulae",
+      "tuberculum supraglenoidale scapulae"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "На какие группы делятся мышцы предплечья по топографическому принципу?",
+    "options": [
+      "передняя и задняя",
+      "лучевая и локтевая",
+      "наружная и внутренняя",
+      "латеральная и медиальная"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К каким мышцам относится передняя группа мышц предплечья?",
+    "options": [
+      "сгибатели и пронаторы предплечья",
+      "разгибатели и супинаторы предплечья",
+      "приводящие мышцы и ротаторы",
+      "отводящие мышцы и супинаторы"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какую функцию выполняет задняя группа мышц предплечья?",
+    "options": [
+      "разгибает и супинирует предплечье",
+      "приводит и ротирует предплечье",
+      "отводит и супинирует предплечье",
+      "сгибает и пронирует предплечье"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Как расположена передняя группа мышц предплечья?",
+    "options": [
+      "в 2 слоя",
+      "в 3 слоя",
+      "рядом, все мышцы начинаются от одной точки прикрепления",
+      "мышцы располагаются одна под другой"
+    ],
+    "answer": 0
+  }
+]

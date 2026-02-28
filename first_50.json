@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Назовите функцию скелета",
+    "options": [
+      "локомоторная",
+      "выработка гормонов",
+      "передача нервного импульса",
+      "выделительная"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Как называется часть дуги позвонка между поперечным и остистым отростками?",
+    "options": [
+      "lamina vertebrae",
+      "pediculus vertebrae",
+      "corpus vertebrae",
+      "foramen vertebrale"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Укажите латинское название рёбер",
+    "options": [
+      "costae",
+      "sternum",
+      "clavicula",
+      "scapula"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Между какими частями позвонка расположена pediculus vertebrae?",
+    "options": [
+      "между телом позвонка и поперечным отростками",
+      "между поперечным и верхними суставными отростками",
+      "между верхними и нижними суставными отростками",
+      "между остистым отростком и телом позвонка"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите непарный позвоночный отросток",
+    "options": [
+      "processus spinosus",
+      "processus transversus",
+      "processus mamillaris",
+      "processus articularis superior"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что находится на суставных отростках для соединения с выше- и нижележащими позвонками?",
+    "options": [
+      "facies articularis",
+      "processus mamillaris",
+      "foramen vertebrale",
+      "anulus apophysialis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите характерные особенности шейных позвонков",
+    "options": [
+      "наличие foramen transversarium на поперечных отростках",
+      "наличие fovea costalis на телах позвонков",
+      "наличие processus accessories на поперечных отростках",
+      "наличие processus mamillaris на поперечных отростках"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите характерные особенности грудных позвонков",
+    "options": [
+      "наличие fovea costalis superior et inferior",
+      "раздвоенные на конце остистые отростки",
+      "тело позвонка массивное, бобовидной формы",
+      "наличие fovea dentis на передней дуге позвонка"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Чем поясничные позвонки отличаются от грудных?",
+    "options": [
+      "в поперечных отростках нет отверстий и рёберных ямок",
+      "остистые наклонены вниз, черепицеобразно накладываются друг на друга",
+      "на поперечных отростках проходит sulcus nervi spinalis",
+      "тело первого поясничного позвонка образует promontorium"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что характерно для первого шейного позвонка?",
+    "options": [
+      "не имеет тела, остистого и суставных отростков",
+      "передний бугорок на поперечном отростке развит сильнее",
+      "остистый отросток длинный, утолщен на конце",
+      "имеет две полуямки на боковой поверхности тела"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что характерно для второго шейного позвонка?",
+    "options": [
+      "наличие зуба",
+      "позвонок состоит из передней и задней дуг и парных боковых масс",
+      "на верхней поверхности тела имеется uncus corporis vertebrae",
+      "наличие facies auricularis на боковой поверхности"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите отличительную особенность VI шейного позвонка",
+    "options": [
+      "наличие tuberculum caroticum на поперечном отростке",
+      "наличие sulcus arteriae vertebralis на верхней поверхности дуги позвонка",
+      "наличие верхней полуямки на боковой поверхности тела позвонка",
+      "наличие processus accessories на поперечном отростке"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите воздухоносные кости",
+    "options": [
+      "лобная кость, верхняя челюсть",
+      "плечевая кость, надколенник",
+      "позвонки, грудина",
+      "кости предплюсны, кости запястья"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какой позвонок получил название vertebra prominens?",
+    "options": [
+      "VII шейный позвонок",
+      "XII грудной позвонок",
+      "II поясничный позвонок",
+      "III шейный позвонок"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "На теле какого позвонка располагаются верхняя целая рёберная ямка и нижняя полуямка?",
+    "options": [
+      "Th 1",
+      "С 7",
+      "Th 12",
+      "L 3"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какой позвонок имеет только верхнюю рёберную полуямку?",
+    "options": [
+      "X грудной позвонок",
+      "I поясничный позвонок",
+      "VII шейный позвонок",
+      "V грудной позвонок"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "У каких грудных позвонков имеется полная fovea costalis на теле позвонка?",
+    "options": [
+      "Th 1, 11, 12",
+      "Th 3-10",
+      "Th 1, 2, 3",
+      "Th 9-11"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какой позвонок имеет massae laterales?",
+    "options": [
+      "atlas",
+      "axis",
+      "vertebra prominens",
+      "os coccygis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какой позвонок используется в клинике для подсчёта?",
+    "options": [
+      "vertebra prominens",
+      "vertebra thoracica prima",
+      "vertebra lumbalis secunda",
+      "os sacrum"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какой позвонок имеет dens?",
+    "options": [
+      "axis",
+      "atlas",
+      "vertebra thoracica",
+      "vertebra lumbalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что отсутствует у I шейного позвонка?",
+    "options": [
+      "corpus vertebrae",
+      "massae laterales",
+      "sulcus arteriae vertebralis",
+      "fovea dentis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Укажите составную часть, характерную для I шейного позвонка?",
+    "options": [
+      "arcus anterior atlantis",
+      "apex dentis",
+      "processus spinosus",
+      "processus articularis inferior"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что располагается на передней дуге атланта?",
+    "options": [
+      "fovea dentis",
+      "tuberculum posterior",
+      "processus costalis",
+      "massae laterales"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько позвонков включает в себя columna vertebralis?",
+    "options": [
+      "33-34",
+      "30-31",
+      "25-26",
+      "37-39"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где находится tuberculum caroticum?",
+    "options": [
+      "на поперечном отростке VI шейного позвонка",
+      "на зубе II шейного позвонка",
+      "на теле V поясничного позвонка",
+      "на основании крестца"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Укажите отличительную особенность vertebra prominens?",
+    "options": [
+      "длинный, легко прощупывающийся, остистый отросток",
+      "рёберные ямки на боковой поверхности тела позвонка",
+      "наличие передней и задней дуг позвонка",
+      "остистый отросток отсутствует"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Как образуется os sacrum?",
+    "options": [
+      "пятью сросшимися позвонками",
+      "шестью позвонками, соединенных посредством суставов",
+      "3-4 рудиментарными позвонками",
+      "5 позвонками и расположенными между ними межпозвоночными дисками"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Куда направлено basis ossis sacri?",
+    "options": [
+      "вверх",
+      "вниз",
+      "латерально",
+      "в сторону полости таза"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Куда направлена apex ossis sacri?",
+    "options": [
+      "вниз",
+      "вверх",
+      "латерально",
+      "в сторону полости таза"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие поверхности различают в крестце?",
+    "options": [
+      "facies pelvica et facies dorsalis",
+      "facies superior et facies inferior",
+      "facies lateralis et facies medialis",
+      "facies dextra et facies sinistra"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что образует promontorium крестца?",
+    "options": [
+      "тело первого крестцового позвонка",
+      "сросшиеся остистые отростки крестцовых позвонков",
+      "сросшиеся суставные отростки крестцовых позвонков",
+      "тело пятого крестцового позвонка"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Чему соответствуют lineae transversae на крестце?",
+    "options": [
+      "следам сращения тел позвонков",
+      "точкам окостенения крестцовых позвонков",
+      "бороздам для прохождения крестцовых спинномозговых нервов",
+      "следам сращения поперечных отростков крестцовых позвонков"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что располагается на facies pelvica ossis sacri?",
+    "options": [
+      "lineae transversae",
+      "crista sacralis mediana",
+      "facies auricularis",
+      "hiatus sacralis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что располагается на facies dorsalis ossis sacri?",
+    "options": [
+      "cornu sacrale",
+      "lineae transversae",
+      "promontorium",
+      "foramina sacralia anteriora"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько шейных позвонков в позвоночном столбе?",
+    "options": [
+      "7",
+      "12",
+      "5",
+      "1"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько гребней расположено на facies dorsalis ossis sacri?",
+    "options": [
+      "5",
+      "6",
+      "3",
+      "7"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Как образуется crista sacralis mediana?",
+    "options": [
+      "в результате сращения processus spinosus крестцовых позвонков",
+      "в результате сращения processus transversus крестцовых позвонков",
+      "в результате сращения processus articulares superiores крестцовых позвонков",
+      "в результате сращения тел крестцовых позвонков"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Как образуется crista sacralis medialis?",
+    "options": [
+      "в результате сращения processus articulares superiores et inferiors крестцовых позвонков",
+      "в результате сращения processus spinosus крестцовых позвонков",
+      "в результате сращения processus transversus крестцовых позвонков",
+      "в результате сращения тел крестцовых позвонков"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Как образуется crista sacralis lateralis?",
+    "options": [
+      "в результате сращения processus transversus крестцовых позвонков",
+      "в результате сращения тел крестцовых позвонков",
+      "в результате сращения processus articulares inferiores крестцовых позвонков",
+      "в результате сращения processus spinosus крестцовых позвонков"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Укажите непарный крестцовый гребень",
+    "options": [
+      "crista sacralis mediana",
+      "crista sacralis intermedia",
+      "crista sacralis lateralis",
+      "crista tuberculi majoris"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите отверстия, располагающиеся на facies pelvica ossis sacri?",
+    "options": [
+      "foramina sacralia anteriora",
+      "foramina sacralia posteriora",
+      "foramina intervertebralia",
+      "hiatus sacralis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие отверстия расположены на facies dorsalis ossis sacri?",
+    "options": [
+      "foramina sacralia posteriora",
+      "foramina intervertebralia",
+      "foramina sacralia anteriora",
+      "canalis sacralis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где находятся facies auricularis et tuberositas sacralis?",
+    "options": [
+      "на facies lateralis ossis sacri",
+      "на facies dorsalis ossis sacri",
+      "на facies pelvica ossis sacri",
+      "на promontorium ossis sacri"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько изгибов образует позвоночник в сагиттальной плоскости?",
+    "options": [
+      "4",
+      "2",
+      "8",
+      "5"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите изгибы позвоночника, обращенные выпуклостью вперед",
+    "options": [
+      "lordosis cervicis et lordosis lumbalis",
+      "kyphosis thoracica et kyphosis sacralis",
+      "lordosis cervicis et kyphosis thoracica",
+      "lordosis cervicis et kyphosis sacralis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Укажите общее количество vertebrae thoracicae",
+    "options": [
+      "12",
+      "3-4",
+      "5",
+      "10"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите изгибы позвоночника, обращенные выпуклостью назад",
+    "options": [
+      "kyphosis thoracica et kyphosis sacralis",
+      "lordosis cervicis et lordosis lumbalis",
+      "lordosis cervicis et kyphosis sacralis",
+      "lordosis lumbalis et kyphosis thoracica"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какую функцию выполняют изгибы позвоночника",
+    "options": [
+      "всё перечисленное",
+      "поддержание равновесия при вертикальном положении тела",
+      "смягчения толчков и сотрясений, возникающих при ходьбе",
+      "амортизация при прыжках"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что образует грудную клетку?",
+    "options": [
+      "12 пар ребер, грудина и 12 грудных позвонков",
+      "12 пар ребер, ключица, грудина",
+      "12 пар ребер, 12 грудных позвонков и лопатка",
+      "грудина, ключица, лопатка"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Как называются рёбра, непосредственно соединяющиеся с грудиной?",
+    "options": [
+      "costae verae",
+      "costae fluctuantes",
+      "costae spuriae",
+      "angulus costalis"
+    ],
+    "answer": 0
+  }
+]

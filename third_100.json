@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Назовите основную функцию двуглавой мышцы бедра",
+    "options": [
+      "сгибает голень в коленном суставе",
+      "стабилизирует и разгибает голень в коленном суставе",
+      "ротирует бедро и голень кнутри",
+      "участвует в подошвенном сгибании стопы"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где начинается полусухожильная мышца?",
+    "options": [
+      "tuber ischiadicum",
+      "labium laterale lineae asperae",
+      "spina iliaca posterior superior",
+      "spina ischiadica"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где начинается m. semimembranosus?",
+    "options": [
+      "tuber ischiadicum",
+      "labium laterale lineae asperae",
+      "spina iliaca posterior superior",
+      "spina ischiadica"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какую связку образует полуперепончатая мышца?",
+    "options": [
+      "ligamentum popliteum obliquum",
+      "ligamentum anulare cubiti",
+      "ligamentum transversus genus",
+      "ligamentum patellae"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какую связку образует m. quadriceps femoris?",
+    "options": [
+      "ligamentum patellae",
+      "ligamentum popliteum obliquum",
+      "ligamentum anulare cubiti",
+      "ligamentum transversus genus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Куда прикрепляются mm. adductor longus et adductor brevis?",
+    "options": [
+      "labium mediale lineae asperae",
+      "condylus medialis tibiae",
+      "tuberositas tibia",
+      "linea pectinea"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "В образовании какой мышцы участвуют m. iliacus et m. psoas major?",
+    "options": [
+      "m. iliopsoas",
+      "m. gluteus maximus",
+      "m. quadriceps femoris",
+      "m. triceps surae"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "На какие группы делят мышцы голени?",
+    "options": [
+      "передняя, латеральная и задняя группы",
+      "передняя, медиальная и задняя группы",
+      "передняя и задняя группы",
+      "поверхностные и глубокие мышцы"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая мышца относится к передней группе мышц голени?",
+    "options": [
+      "m. tibialis anterior",
+      "m. peroneus longus",
+      "m. triceps surae",
+      "m. soleus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая мышца относится к латеральной группе мышц голени?",
+    "options": [
+      "m. peroneus longus",
+      "m. extensor hallucis longus",
+      "m. triceps surae",
+      "m. soleus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая мышца относится к задней группе мышц голени?",
+    "options": [
+      "m. triceps surae",
+      "m. extensor hallucis longus",
+      "m. extensor digitorum longus",
+      "m. peroneus tertius"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц нижней конечности относится m.plantaris?",
+    "options": [
+      "задняя группа мышц голени",
+      "задняя группа мышц бедра",
+      "передняя группа мышц голени",
+      "средняя группа мышц стопы"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где расположена m.tibialis posterior?",
+    "options": [
+      "в глубоком слое задней группы мышц голени",
+      "в поверхностном слое задней группы мышц голени",
+      "в передней группы мышц голени",
+      "в латеральной группе мышц голени"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько мышц участвует в образовании m. triceps suare?",
+    "options": [
+      "2",
+      "3",
+      "5",
+      "1"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие мышцы образуют трехглавую мышцу голени?",
+    "options": [
+      "m. gastrocnemius et m. soleus",
+      "m. semitendinosus et m. semimembranosus",
+      "m. tibialis anterior et m. tibialis posterior",
+      "m. popliteus et m. plantaris"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая мышца располагается сбоку от переднего края большеберцовой кости?",
+    "options": [
+      "m. tibialis anterior",
+      "m. triceps surae",
+      "m. plantaris",
+      "m. popliteus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Укажите мышцу, обеспечивающую тыльное сгибание стопы",
+    "options": [
+      "m. tibialis anterior",
+      "m. flexor digitorum longus",
+      "m. peroneus brevis",
+      "m. peroneus longus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая мышца берет начало от передней поверхности крестца?",
+    "options": [
+      "m. piriformis",
+      "m. gemellus superior",
+      "m. psoas minor",
+      "m. sartorius"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая мышца участвует в сгибании бедра в тазобедренном суставе?",
+    "options": [
+      "m. iliopsoas",
+      "m. quadratus lumborum",
+      "m. obliquus externus abdominis",
+      "m. rectus abdominis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая мышца обеспечивает поднятие тела «на носочки»?",
+    "options": [
+      "m. triceps surae",
+      "m. peroneus brevis",
+      "m. peroneus longus",
+      "m. tibialis anterior"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Продолжением какой мышцы является ахиллово сухожилие?",
+    "options": [
+      "m. triceps surae",
+      "m. peroneus brevis",
+      "m. peroneus longus",
+      "m. tibialis anterior"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Куда прикрепляется m. triceps surae?",
+    "options": [
+      "tuber calcanei",
+      "trochlea tali",
+      "os naviculare",
+      "os cuboideum"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Куда прикрепляется m. plantaris?",
+    "options": [
+      "tuber calcanei",
+      "trochlea tali",
+      "os naviculare",
+      "os cuboideum"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где начинается камбаловидная мышца?",
+    "options": [
+      "linea musculi solei",
+      "linea aspera",
+      "tuberositas tibia",
+      "malleolus lateralis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая мышца относится к мышцам тыла стопы?",
+    "options": [
+      "m. extensor digitorum brevis",
+      "m. abductor hallucis",
+      "m. flexor accessories",
+      "mm. lumbricales"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие мышцы относятся к медиальной группе подошвенных мышц?",
+    "options": [
+      "мышцы большого пальца стопы",
+      "мышцы мизинца",
+      "мышцы разгибатели пальцев стопы",
+      "червеобразные мышцы"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая мышца относится к средней группе подошвенных мышц?",
+    "options": [
+      "квадратная мышца подошвы стопы",
+      "короткий сгибатель большого пальца",
+      "короткий сгибатель большого пальца стопы",
+      "короткий сгибатель мизинца стопы"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе относится m. extensor hallucis brevis?",
+    "options": [
+      "мышцы тыла стопы",
+      "мышцы медиальной группы подошвы",
+      "мышцы латеральной группы подошвы",
+      "мышцы средней группы подошвы"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Куда прикрепляется подвздошно-поясничная мышца?",
+    "options": [
+      "trochanter minor",
+      "labium mediale lineae asperae",
+      "condyles lateralis femoris",
+      "facies poplitea"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие мышцы относятся к латеральной группе подошвенных мышц?",
+    "options": [
+      "мышцы мизинца стопы",
+      "мышцы большого пальца стопы",
+      "мышцы разгибатели пальцев стопы",
+      "червеобразные мышцы"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие мышцы отводят пальцы от продольной оси стопы, проходящей через II палец?",
+    "options": [
+      "mm. interossei dorsales",
+      "m. quadratus plantae",
+      "mm. lumbricales",
+      "m. adductor hallucis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие мышцы приводят III, IV, V пальцы к продольной оси стопы, проходящей через II палец?",
+    "options": [
+      "mm. interossei plantares",
+      "m. quadratus plantae",
+      "mm. lumbricales",
+      "m. adductor hallucis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относится m. quadratus plantae?",
+    "options": [
+      "средняя группа подошвенных мышц",
+      "мышцы тела стопы",
+      "задняя группа мышц голени",
+      "передняя группа мышц голени"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относятся mm. lumbricales?",
+    "options": [
+      "средняя группа подошвенных мышц",
+      "мышцы тела стопы",
+      "задняя группа мышц голени",
+      "передняя группа мышц голени"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относится m. flexor hallucis longus?",
+    "options": [
+      "задняя группа мышц голени",
+      "передняя группа мышц голени",
+      "мышцы тела стопы",
+      "медиальная группа мышц бедра"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относится m. popliteus?",
+    "options": [
+      "задняя группа мышц голени",
+      "передняя группа мышц голени",
+      "мышцы тела стопы",
+      "медиальная группа мышц бедра"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относится m. peroneus longus?",
+    "options": [
+      "латеральная группа мышц голени",
+      "передняя группа мышц голени",
+      "мышцы тела стопы",
+      "медиальная группа мышц бедра"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относится m. extensor digitorum longus?",
+    "options": [
+      "передняя группа мышц голени",
+      "мышцы тела стопы",
+      "медиальная группа подошвенных мышц",
+      "латеральная группа мышц голени"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относится m. biceps femoris?",
+    "options": [
+      "задняя группа мышц бедра",
+      "медиальная группа мышц бедра",
+      "внутренние мышцы таза",
+      "латеральная группа мышц голени"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая мышца таза имеет широкое начало от подвздошной ямки?",
+    "options": [
+      "m. iliacus",
+      "m. psoas minor",
+      "m. piriformis",
+      "m. gemellus superior"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относится m. gracilis?",
+    "options": [
+      "медиальная группа мышц бедра",
+      "внутренние мышцы таза",
+      "латеральная группа мышц голени",
+      "передняя группа мышц бедра"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относится m. quadratus femoris?",
+    "options": [
+      "наружные мышцы таза",
+      "латеральная группа мышц голени",
+      "передняя группа мышц бедра",
+      "задняя группа мышц бедра"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько мышц располагаются на тыле стопы?",
+    "options": [
+      "2",
+      "6",
+      "5",
+      "4"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относится m. piriformis?",
+    "options": [
+      "внутренние мышцы таза",
+      "латеральная группа мышц голени",
+      "передняя группа мышц бедра",
+      "задняя группа мышц бедра"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относится m. gluteus maximus?",
+    "options": [
+      "наружные мышцы таза",
+      "латеральная группа мышц голени",
+      "передняя группа мышц бедра",
+      "задняя группа мышц бедра"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относится m. tensor fasciae latae?",
+    "options": [
+      "наружные мышцы таза",
+      "внутренние мышцы таза",
+      "передняя группа мышц бедра",
+      "задняя группа мышц бедра"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относится m. sartorius?",
+    "options": [
+      "передняя группа мышц бедра",
+      "наружные мышцы таза",
+      "внутренние мышцы таза",
+      "задняя группа мышц бедра"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относится m. pectineus?",
+    "options": [
+      "медиальная группа мышц бедра",
+      "наружные мышцы таза",
+      "внутренние мышцы таза",
+      "задняя группа мышц бедра"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относится m. semitendinosus?",
+    "options": [
+      "задняя группа мышц бедра",
+      "наружные мышцы таза",
+      "внутренние мышцы таза",
+      "передняя группа мышц бедра"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относится m. semimembranosus?",
+    "options": [
+      "задняя группа мышц бедра",
+      "наружные мышцы таза",
+      "внутренние мышцы таза",
+      "передняя группа мышц бедра"
+    ],
+    "answer": 0
+  }
+]

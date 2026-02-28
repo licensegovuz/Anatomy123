@@ -1,0 +1,512 @@
+[
+  {
+    "question": "Укажите начало m. mylohyoideus",
+    "options": [
+      "linea mylohyoidea ossis mandibullae",
+      "spina mentalis ossis mandibullae",
+      "processus styloideus ossis temporalis",
+      "incisura mastoidea ossis temporalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где начинается m. geniohyoideus?",
+    "options": [
+      "spina mentalis ossis mandibullae",
+      "linea mylohyoidea ossis mandibullae",
+      "spina ossis sphenoidalis",
+      "processus pretygoideus ossis sphenoidalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какую функцию выполняют мышцы, расположенные выше подъязычной кости?",
+    "options": [
+      "поднимают подъязычную кость, участвуя в акте глотания",
+      "запрокидывают голову назад",
+      "удерживают голову в вертикальном положении",
+      "поворачивают голову в противоположную сторону"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какую функцию выполняют мышцы, расположенные ниже подъязычной кости?",
+    "options": [
+      "опускают подъязычную кость, участвуя в акте глотания",
+      "запрокидывают голову назад",
+      "удерживают голову в вертикальном положении",
+      "поворачивают голову в противоположную сторону"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Куда прикрепляются мышцы, расположенные выше подъязычной кости?",
+    "options": [
+      "к телу и большим рогам подъязычной кости",
+      "к щитовидному хрящу гортани",
+      "к поперечным отросткам шейных позвонков",
+      "к базилярной части затылочной кости"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Укажите части лопаточно-подъязычной мышцы",
+    "options": [
+      "venter superior et venter inferior",
+      "venter anterior et venter posterior",
+      "pаrs medialis et pars lateralis",
+      "pars superficialis et pars profundus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "На какие группы мышц подразделяются глубокие мышцы шеи?",
+    "options": [
+      "латеральную, медиальную (предпозвоночную) и подзатылочную",
+      "надподъязычную, подподъязычную и боковую",
+      "мимические, жевательные и глотательные",
+      "передняя, задняя и боковая"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите части m. occipitofrontalis",
+    "options": [
+      "venter occipitalis et venter frontalis",
+      "venter anterior et venter posterior",
+      "pars transversa et pars alaris",
+      "pars marginalis et pars labialis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие мышцы относятся к латеральной группе глубоких мышц шеи?",
+    "options": [
+      "m. scalenus anterior, m. scalenus medius, m. scalenus posterior",
+      "m. splenius capitis, m. splenius cervicis",
+      "m. longissimus cervicis, m. longissimus capitis",
+      "m. omohyoideus, m. sternothyroideus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Куда прикрепляется передняя лестничная мышца?",
+    "options": [
+      "к tuberculum musculi scaleni anterioris первого ребра",
+      "к первому ребру, сзади от sulcus arteriae subclaviae",
+      "к angulus superior scapulae",
+      "к tuberculum conoideum claviculae"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где берет начало m. scalenus medius?",
+    "options": [
+      "от processus transversus C2-C7",
+      "от processus spinosus C3-C6",
+      "от corpus vertebrae C1-C2",
+      "от arcus vertebrae C7"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой кости прикрепляется m. scalenus posterior?",
+    "options": [
+      "ко второму ребру",
+      "к первому ребру",
+      "к ключице",
+      "к грудине"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие мышцы расположены в медиальной (предпозвоночной) группе глубоких мышц шеи?",
+    "options": [
+      "m. longus capitis, m. longus colli",
+      "m. splenius capitis, m. splenius cervicis",
+      "m. longissimus cervicis, m. longissimus capitis",
+      "m. obliquus capitis superior, m. obliquus capitis inferior"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где находится regio cervicalis anterior?",
+    "options": [
+      "между средней линией шеи и передним краем m. sternocleidomastoideus",
+      "между m. sternocleidomastoideus и краем m. trapezius",
+      "между передними краями обоих m. sternocleidomastoideus",
+      "между os hyoideum и manubrium sterni"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где находится regio cervicalis lateralis?",
+    "options": [
+      "между m. sternocleidomastoideus и краем m. trapezius",
+      "между os hyoideum и manubrium sterni",
+      "между передними краями обоих m. sternocleidomastoideus",
+      "между средней линией шеи и передним краем m. sternocleidomastoideus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько треугольников шеи расположено в regio cervicalis anterior?",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "8"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Перечислите треугольники передней области шеи",
+    "options": [
+      "trigonum submandibulare, caroticum, omotracheale, submentale",
+      "trigonum omotrapezoideum, omoclaviculare, sternocleidomastoidea",
+      "trigonum pretracheale, previscerale, retroviscerale",
+      "trigonum antescalenum, interscalenum, retroscalenum"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько треугольников шеи расположено в regio cervicalis lateralis?",
+    "options": [
+      "2",
+      "5",
+      "3",
+      "4"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Как называется сухожильное растяжение надчерепной мышцы, покрывающее верхнюю часть свода черепа?",
+    "options": [
+      "galea aponeurotica",
+      "lacertus fibrosus",
+      "aponeurosis palmaris",
+      "platysma"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Перечислите треугольники боковой области шеи",
+    "options": [
+      "omotrapezoideum, omoclaviculare",
+      "submandibulare, caroticum, omotracheale, submentale",
+      "pretracheale, previscerale, retroviscerale",
+      "antescalenum, interscalenum, retroscalenum"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Укажите треугольник шеи расположенный в regio cervicalis lateralis?",
+    "options": [
+      "лопаточно-трапециевидный",
+      "сонный",
+      "лопаточно-трахеальный",
+      "подподбородочный"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какой треугольник шеи ограничен брюшками двубрюшной мышцы и нижним краем тела нижней челюсти?",
+    "options": [
+      "trigonum submandibulare",
+      "trigonum omotrapezoideum",
+      "trigonum caroticum",
+      "trigonum omotracheale"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какой треугольник шеи находится между подъязычной костью и передними брюшками двубрюшной мышцы?",
+    "options": [
+      "trigonum submentale",
+      "trigonum omotrapezoideum",
+      "trigonum caroticum",
+      "trigonum omoclaviculare"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите непарный треугольник шеи?",
+    "options": [
+      "trigonum submentale",
+      "trigonum omotracheale",
+      "trigonum omoclaviculare",
+      "trigonum submandibulare"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "В пределах какого треугольника шеи проецируется треугольник Пирогова?",
+    "options": [
+      "trigonum submandibulare",
+      "trigonum omotrapezoideum",
+      "trigonum caroticum",
+      "trigonum submentale"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "В пределах какого треугольника шеи проецируется поднижнечелюстная слюнная железа?",
+    "options": [
+      "trigonum submandibulare",
+      "trigonum omotrapezoideum",
+      "trigonum caroticum",
+      "trigonum omotracheale"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "В пределах какого треугольника шеи проецируется трахея?",
+    "options": [
+      "trigonum omotracheale",
+      "trigonum omoclaviculare",
+      "trigonum submandibulare",
+      "trigonum submentale"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "В пределах какого треугольника шеи проецируется щитовидная железа?",
+    "options": [
+      "trigonum omotracheale",
+      "trigonum omoclaviculare",
+      "trigonum submandibulare",
+      "trigonum submentale"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "В пределах какого треугольника шеи проецируется бифуркация общей сонной артерии?",
+    "options": [
+      "trigonum caroticum",
+      "trigonum omoclaviculare",
+      "trigonum submandibulare",
+      "trigonum omotracheale"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите функцию m. occipitofrontalis",
+    "options": [
+      "сдвигает кожу головы вперед и назад",
+      "смещает ушную раковину назад и книзу",
+      "опускает и сморщивает брови",
+      "зажмуривает глаза при ярком свете"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько мышц расположено вокруг ушной раковины?",
+    "options": [
+      "3",
+      "5",
+      "1",
+      "8"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие мимические мышцы являются рудиментарными?",
+    "options": [
+      "мышцы ушной раковины",
+      "мышцы окружности глаза",
+      "мышцы окружности рта",
+      "мышцы окружности носа"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относится m. corrugators supercilii?",
+    "options": [
+      "мышцы окружности глаза",
+      "мышцы окружности рта",
+      "мышцы окружности носа",
+      "мышцы ушной раковины"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относится m. depressor supercilii?",
+    "options": [
+      "мышцы окружности глаза",
+      "мышцы окружности рта",
+      "мышцы окружности носа",
+      "мышцы ушной раковины"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относится m. depressor septi nasi?",
+    "options": [
+      "мышцы окружности носа",
+      "мышцы ушной раковины",
+      "мышцы окружности глаза",
+      "мышцы окружности рта"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относится m. zygomaticus minor?",
+    "options": [
+      "мышцы окружности рта",
+      "мышцы окружности носа",
+      "мышцы ушной раковины",
+      "мышцы окружности глаза"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относится m. risorius?",
+    "options": [
+      "мышцы окружности рта",
+      "мышцы окружности носа",
+      "мышцы ушной раковины",
+      "мышцы окружности глаза"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относится m. buccinator?",
+    "options": [
+      "мышцы окружности рта",
+      "мышцы окружности носа",
+      "мышцы ушной раковины",
+      "мышцы окружности глаза"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относится m. mentalis?",
+    "options": [
+      "мышцы окружности рта",
+      "мышцы окружности носа",
+      "мышцы ушной раковины",
+      "мышцы окружности глаза"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К каким мышцам относится m. temporalis?",
+    "options": [
+      "жевательные мышцы",
+      "поверхностные мышцы шеи",
+      "глубокие мышцы шеи",
+      "мышцы свода черепа"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая мышца поднимает брови вверх, выражая удивление?",
+    "options": [
+      "venter frontalis m. occipitofrontalis",
+      "m. depressor supercilii",
+      "pars orbitalis m. orbicularis oculi",
+      "m. corrugator supercilii"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К каким мышцам относится platysma?",
+    "options": [
+      "поверхностные мышцы шеи",
+      "глубокие мышцы шеи",
+      "мышцы свода черепа",
+      "жевательные мышцы"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К каким мышцам относится m. temporoparietalis?",
+    "options": [
+      "мышцы свода черепа",
+      "жевательные мышцы",
+      "поверхностные мышцы шеи",
+      "глубокие мышцы шеи"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько листков имеет шейная фасция по В. Н. Шевкуненко?",
+    "options": [
+      "5",
+      "4",
+      "2",
+      "1"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какую функцию выполняет m. longus colli при одностороннем сокращении?",
+    "options": [
+      "наклоняет голову в свою сторону",
+      "наклоняет голову вперед",
+      "наклоняет голову назад",
+      "наклоняет голову в противоположную сторону"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какую функцию выполняет m. longus colli при двустороннем сокращении?",
+    "options": [
+      "сгибает шейный отдел позвоночного столба",
+      "разгибает шейный отдел позвоночного столба",
+      "наклоняет голову в свою сторону",
+      "наклоняет голову в противоположную сторону"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К каким мышцам относится m. digastricus?",
+    "options": [
+      "средние мышцы шеи",
+      "поверхностные мышцы шеи",
+      "глубокие мышцы шеи",
+      "жевательные мышцы"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К каким мышцам относится m. stylohyoideus?",
+    "options": [
+      "средние мышцы шеи",
+      "поверхностные мышцы шеи",
+      "глубокие мышцы шеи",
+      "жевательные мышцы"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К каким мышцам относится m. geniohyoideus?",
+    "options": [
+      "средние мышцы шеи",
+      "поверхностные мышцы шеи",
+      "глубокие мышцы шеи",
+      "жевательные мышцы"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К каким мышцам относится m. sternohyoideus?",
+    "options": [
+      "средние мышцы шеи",
+      "поверхностные мышцы шеи",
+      "глубокие мышцы шеи",
+      "жевательные мышцы"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К каким мышцам относится m. omohyoideus?",
+    "options": [
+      "средние мышцы шеи",
+      "поверхностные мышцы шеи",
+      "глубокие мышцы шеи",
+      "жевательные мышцы"
+    ],
+    "answer": 0
+  }
+]

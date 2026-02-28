@@ -1,0 +1,482 @@
+[
+  {
+    "question": "Чем покрыта суставная поверхность нижнечелюстной ямки височной кости?",
+    "options": [
+      "фиброзной тканью",
+      "гиалиновым хрящом",
+      "эластическим хрящом",
+      "волокнистым хрящом"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какую стенку наружного слухового прохода образует squama ossis temporalis?",
+    "options": [
+      "верхнюю",
+      "переднюю",
+      "заднюю",
+      "нижнюю"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "С какой стороны чешуя височной кости ограничивает porus acusticus externus?",
+    "options": [
+      "сверху",
+      "снизу",
+      "с медиальной стороны",
+      "с латеральной стороны"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какую стенку наружного слухового прохода образует pars tympanica височной кости?",
+    "options": [
+      "переднюю",
+      "верхнюю",
+      "внутреннюю",
+      "наружную"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая щель располагается между чешуйчатой и барабанными частями височной кости?",
+    "options": [
+      "fissura tympanosquamosa",
+      "fissura petrosquamosa",
+      "fissura tympanomastoidea",
+      "fissura petrotympanica"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая щель находится на месте соединения барабанной и каменистой частей височной кости?",
+    "options": [
+      "fissura petrotympanica",
+      "fissura tympanosquamosa",
+      "fissura petrosquamosa",
+      "fissura tympanomastoidea"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Большую часть какой черепной ямки образует клиновидная кость?",
+    "options": [
+      "средней черепной ямки",
+      "передней черепной ямки",
+      "задней черепной ямки",
+      "промежуточной черепной ямки"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая щель располагается между чешуйчатой и каменистой частями височной кости?",
+    "options": [
+      "fissura petrosquamosa",
+      "fissura tympanosquamosa",
+      "fissura tympanomastoidea",
+      "fissura petrotympanica"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая щель находится на месте соединения барабанной части и сосцевидного отростка височной кости?",
+    "options": [
+      "fissura tympanomastoidea",
+      "fissura tympanosquamosa",
+      "fissura petrosquamosa",
+      "fissura petrotympanica"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Чем ограничена incisura tympanica?",
+    "options": [
+      "spina tympanica major et spina tympanica minor",
+      "tuberculum articulare et tuberculum postarticulare",
+      "fissura petrosquamosa et fissura petrotympanica",
+      "processus styloideus et processus mastoideus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какую форму имеет pars petrosa височной кости?",
+    "options": [
+      "пирамида",
+      "четырехугольная пластинка",
+      "форма куба",
+      "цилиндр"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Куда направлена apex partis petrosae височной кости?",
+    "options": [
+      "вперед и медиально",
+      "назад и латерально",
+      "в область височной ямки",
+      "в полость глазницы"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что открывается на apex partis petrosae височной кости?",
+    "options": [
+      "canalis caroticus",
+      "meatus acusticus externus",
+      "antrum mastoideum",
+      "cavitas tympani"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что располагается в толще пирамиды височной кости?",
+    "options": [
+      "cavitas tympani",
+      "antrum mastoideum",
+      "sinus frontalis",
+      "sinus sphenoidalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько поверхностей имеет пирамида височной кости?",
+    "options": [
+      "3",
+      "5",
+      "2",
+      "6"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько краёв имеет пирамида височной кости?",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "5"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите края пирамиды височной кости",
+    "options": [
+      "margo anterior, posterior, superior",
+      "margo anterior, posterior, inferior",
+      "margo medialis, lateralis",
+      "margo superficialis, profundus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите части клиновидной кости?",
+    "options": [
+      "corpus, alae minores",
+      "squama, pars lateralis",
+      "pars nasalis, pars orbitalis",
+      "pars tympanica, alae majores"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите поверхности пирамиды височной кости",
+    "options": [
+      "facies anterior, posterior, inferior",
+      "facies parietalis, occipitalis, superior",
+      "facies medialis, lateralis",
+      "facies superficialis, profundus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что проходит по верхнему краю пирамиды височной кости?",
+    "options": [
+      "sulcus sinus petrosi superioris",
+      "semicanalis musculi tensoris tympani",
+      "canalis caroticus",
+      "sulcus sinus sigmoideus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что проходит по нижнему краю пирамиды височной кости?",
+    "options": [
+      "sulcus sinus petrosi inferioris",
+      "semicanalis tubae auditivae",
+      "canaliculus mastoideus",
+      "sulcus sinus sagittalis superioris"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что находится на facies anterior пирамиды височной кости?",
+    "options": [
+      "impressio trigeminalis",
+      "porus acusticus externus",
+      "foveola suprameatica",
+      "canalis caroticus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "На какой поверхности пирамиды височной кости находится fossa jugularis?",
+    "options": [
+      "facies inferior",
+      "facies anterior",
+      "facies posterior",
+      "facies cerebralis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что находится на facies posterior пирамиды височной кости?",
+    "options": [
+      "porus acusticus internus",
+      "porus acusticus externus",
+      "processus styloideus",
+      "foramen mastoideum"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "На какой поверхности пирамиды височной кости находится canalis caroticus?",
+    "options": [
+      "facies inferior",
+      "facies anterior",
+      "facies posterior",
+      "facies cerebralis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что находится на facies inferior пирамиды височной кости?",
+    "options": [
+      "fossula petrosa",
+      "porusacusticus externus",
+      "tegmen tympani",
+      "incisura mastoidea"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "На какой поверхности пирамиды височной кости находится tegmen tympani?",
+    "options": [
+      "facies anterior",
+      "facies inferior",
+      "facies posterior",
+      "facies cerebralis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "С какой костью соединяется сосцевидная часть височной кости при помощи margo occipitalis?",
+    "options": [
+      "с затылочной костью",
+      "с теменной костью",
+      "с клиновидной костью",
+      "с лобной костью"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где находится sinus sphenoidalis?",
+    "options": [
+      "в теле клиновидной кости",
+      "в малых крыльях",
+      "в больших крыльях",
+      "в крыловидных отростках"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что проходит по внутренней поверхности сосцевидной части височной кости?",
+    "options": [
+      "sulcus sinus sigmoidei",
+      "incisura mastoidea",
+      "canalis caroticus",
+      "sulcus arteriae occipitalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какое отверстие расположено между сосцевидным и шиловидным отростками височной кости?",
+    "options": [
+      "foramen stylomastoideum",
+      "foramen mastoideum",
+      "foramen lacerum",
+      "foramen jugulare"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что находится в центре сосцевидного отростка?",
+    "options": [
+      "antrum mastoideum",
+      "cavitas tympani",
+      "cellulae ethmoidales",
+      "canalis caroticus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где начинается canalis nervi facialis?",
+    "options": [
+      "porus acusticus internus",
+      "hiatus canalis n. petrosimajoris",
+      "porusacusticus externus",
+      "foramen mastoideum"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где заканчивается canalis nervi facialis?",
+    "options": [
+      "foramen stylomastoideum",
+      "fissura petrotympanica",
+      "на дне fossula petrosa",
+      "на apex partis petrosae"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что проходит в canaliculus chordae tympani?",
+    "options": [
+      "барабанная струна",
+      "яремная вена",
+      "тройничный нерв",
+      "сонная артерия"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Ответвлением какого канала является каналец барабанной струны?",
+    "options": [
+      "canalis nervi facialis",
+      "canalis musculotubarius",
+      "canaliculi caroticotympanici",
+      "canalis caroticus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где находится барабанная полость?",
+    "options": [
+      "в пирамиде височной кости",
+      "в теле клиновидной кости",
+      "в сосцевидном отростке височной кости",
+      "в лабиринтах решётчатой кости"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где находится сосцевидная пещера?",
+    "options": [
+      "в сосцевидном отростке височной кости",
+      "в теле клиновидной кости",
+      "в пирамиде височной кости",
+      "в лабиринтах решётчатой кости"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где располагается sella turcica?",
+    "options": [
+      "на верхней поверхности тела клиновидной кости",
+      "в основании крыловидного отростка клиновидной кости",
+      "на пирамиде височной кости",
+      "на лабиринтах решётчатой кости"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где располагается impressio trigeminalis височной кости?",
+    "options": [
+      "на передней поверхности пирамиды",
+      "на задней поверхности пирамиды",
+      "на нижней поверхности пирамиды",
+      "на сосцевидном отростке"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что проходит в canalis caroticus?",
+    "options": [
+      "внутренняя сонная артерия",
+      "яремная вена",
+      "эндолимфатический проток",
+      "барабанный нерв"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где расположена apertura interna canalis carotici?",
+    "options": [
+      "на apex partis petrosae",
+      "на дне fossula petrosa",
+      "на facies posterior partis petrosae",
+      "на facies anterior partis petrosae"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где расположено eminentia arcuata височной кости?",
+    "options": [
+      "на передней поверхности пирамиды",
+      "на задней поверхности пирамиды",
+      "на нижней поверхности пирамиды",
+      "на сосцевидном отростке"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "В образовании какой ямки участвует facies posterior partis petrosae височной кости?",
+    "options": [
+      "задняя черепная ямка",
+      "средняя черепная ямка",
+      "височная ямка",
+      "подвисочная ямка"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что располагается в центре задней поверхности пирамиды височной кости?",
+    "options": [
+      "porus acusticus internus",
+      "porus acusticus externus",
+      "tegmen tympani",
+      "eminentia arcuata"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Чем является facies inferior partis petrosae височной кости?",
+    "options": [
+      "составной частью наружной поверхности основания черепа",
+      "составной частью внутренней поверхности основания черепа",
+      "передней стенкой передней черепной ямки",
+      "дугообразным возвышением"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие поверхности различают в pars mastoidea?",
+    "options": [
+      "внутреннюю и наружную",
+      "переднюю и заднюю",
+      "верхнюю и нижнюю",
+      "барабанную и вестибулярную"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какой канал открывается через foramen stylomastoideum?",
+    "options": [
+      "canalis nervi facialis",
+      "canalis condylaris",
+      "canalis caroticus",
+      "canalis incisuvus"
+    ],
+    "answer": 0
+  }
+]

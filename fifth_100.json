@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Сколько поверхностей имеет тело локтевой кости?",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "6"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие поверхности имеет тело локтевой кости?",
+    "options": [
+      "facies anterior, facies posterior, facies medialis",
+      "facies posterior, facies anterior medialis, facies anterior lateralis",
+      "facies medialis, facies lateralis, facies anterior",
+      "facies dextra, facies sinistra, facies superior"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько краёв имеет тело локтевой кости?",
+    "options": [
+      "3",
+      "4",
+      "1",
+      "2"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какой край локтевой кости направлен в сторону лучевой кости?",
+    "options": [
+      "margo interosseus",
+      "margo posterior",
+      "margo anterior",
+      "margo superior"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где располагается caput ulnae?",
+    "options": [
+      "на дистальном эпифизе локтевой кости",
+      "на проксимальном эпифизе локтевой кости",
+      "на теле лучевой кости",
+      "на дистальном эпифизе плечевой кости"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где располагается sulcus musculi subclavii?",
+    "options": [
+      "на corpus claviculae",
+      "на caput costae",
+      "на extremitas acromialis",
+      "на extremitas sternalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где располагается processus styloideus локтевой кости?",
+    "options": [
+      "на дистальном эпифизе локтевой кости",
+      "на проксимальном эпифизе локтевой кости",
+      "на теле лучевой кости",
+      "на дистальном эпифизе плечевой кости"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите суставную поверхность головки локтевой кости",
+    "options": [
+      "circumferentia articularis",
+      "cavitas glenoidalis",
+      "acetabulum",
+      "facies articularis carpalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе костей относится radius?",
+    "options": [
+      "к длинным трубчатым",
+      "к коротким губчатым",
+      "к cмешанным",
+      "к плоским"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите части лучевой кости",
+    "options": [
+      "тело, проксимальный и дистальный эпифизы",
+      "головка, тело, хвост",
+      "передняя часть, задняя часть",
+      "основание, тело, головка"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где располагается caput radii?",
+    "options": [
+      "на проксимальном эпифизе лучевой кости",
+      "на дистальном эпифизе локтевой кости",
+      "на теле ключицы",
+      "на дистальном эпифизе плечевой кости"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "С какой костью соединяется головка лучевой кости при помощи fovea articularis?",
+    "options": [
+      "плечевая кость",
+      "локтевая кость",
+      "ладьевидная кость",
+      "трехгранная кость"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "С какой костью соединяется головка лучевой кости при помощи circumferentia articularis?",
+    "options": [
+      "локтевая кость",
+      "ладьевидная кость",
+      "трехгранная кость",
+      "плечевая кость"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая часть лучевой кости располагается между головкой и телом?",
+    "options": [
+      "collum radii",
+      "tuberculum dorsale",
+      "incisura ulnaris",
+      "processus styloideus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько поверхностей имеет тело лучевой кости?",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "6"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько краёв имеет тело лучевой кости?",
+    "options": [
+      "3",
+      "4",
+      "1",
+      "2"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где располагается tuberositas ligamenti coracoclavicularis?",
+    "options": [
+      "на extremitas acromialis",
+      "на extremitas sternalis",
+      "на corpus claviculae",
+      "на caput costae"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какой край лучевой кости направлен в сторону локтевой кости?",
+    "options": [
+      "margo interosseus",
+      "margo posterior",
+      "margo anterior",
+      "margo superior"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что располагается на дистальном эпифизе кости лучевой кости?",
+    "options": [
+      "processus styloideus",
+      "collum radii",
+      "caput radii",
+      "circumferentia articularis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "С какими костями соединяется лучевая кость при помощи facies articularis carpalis?",
+    "options": [
+      "с костями запястья",
+      "с локтевой костью",
+      "с плечевой костью",
+      "с костями пясти"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Из скольких костей состоит скелет запястья?",
+    "options": [
+      "8",
+      "7",
+      "6",
+      "4"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе костей относятся кости запястья?",
+    "options": [
+      "к коротким губчатым",
+      "к коротким трубчатым",
+      "к cмешанным",
+      "к плоским"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие кости расположены в проксимальном ряду запястья?",
+    "options": [
+      "os scaphoideum, oslunatum, os triquetrum, os pisiforme",
+      "os trapezium, os trapezoideum, os capitatum, os hamatum",
+      "os trapezium, os trapezoideum, os triquetrum, os lunatum",
+      "humerus, radius, ulna, digiti"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие кости расположены в дистальном ряду запястья?",
+    "options": [
+      "os trapezium, os trapezoideum, os capitatum, os hamatum",
+      "os trapezium, os trapezoideum, os triquetrum, os lunatum",
+      "os scaphoideum, os lunatum, os triquetrum, os pisiforme",
+      "humerus, radius, ulna, digiti"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите самую крупную кость запястья",
+    "options": [
+      "os capitatum",
+      "os hamatum",
+      "os trapezium",
+      "os pisiforme"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Как с латинского переводится «os scaphoideum»?",
+    "options": [
+      "ладьевидная кость",
+      "трехгранная кость",
+      "головчатая кость",
+      "трапециевидная кость"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Как с латинского переводится «os lunatum»?",
+    "options": [
+      "полулунная кость",
+      "ладьевидная кость",
+      "трапециевидная кость",
+      "крючковидная кость"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Из каких частей состоит tuberositas ligamenti coracoclavicularis?",
+    "options": [
+      "tuberculum conoideum et linea trapezoidea",
+      "tuberculum majus et tuberculum minus",
+      "sulcus venae subclaviae et sulcus arteriae subclaviae",
+      "impressio ligamenti costoclavicularis et sulcus musculi subclavii"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Как с латинского переводится «os triquetrum»?",
+    "options": [
+      "трехгранная кость",
+      "полулунная кость",
+      "трапециевидная кость",
+      "крючковидная кость"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Как с латинского переводится «os pisiforme»?",
+    "options": [
+      "гороховидная кость",
+      "головчатая кость",
+      "ладьевидная кость",
+      "трапециевидная кость"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Как с латинского переводится «os trapezium»?",
+    "options": [
+      "кость-трапеция",
+      "полулунная кость",
+      "трехгранная кость",
+      "трапециевидная кость"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Как с латинского переводится «os trapezoideum»?",
+    "options": [
+      "трапециевидная кость",
+      "трехгранная кость",
+      "головчатая кость",
+      "ладьевидная кость"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Как с латинского переводится «os capitatum»?",
+    "options": [
+      "головчатая кость",
+      "полулунная кость",
+      "трапециевидная кость",
+      "крючковидная кость"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Как с латинского переводится «os hamatum»?",
+    "options": [
+      "крючковидная кость",
+      "полулунная кость",
+      "трехгранная кость",
+      "трапециевидная кость"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько костей образует скелет пясти",
+    "options": [
+      "5",
+      "8",
+      "7",
+      "14"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе костей относятся кости пясти?",
+    "options": [
+      "к коротким трубчатым",
+      "к коротким губчатым",
+      "к смешанным",
+      "к длинным трубчатым"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Из каких частей состоит пятная кость?",
+    "options": [
+      "basis, corpus, caput",
+      "caput, collum, corpus",
+      "caput, corpus, cauda",
+      "corpus, processus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько фаланг образует скелет пальцев кисти?",
+    "options": [
+      "14",
+      "15",
+      "10",
+      "5"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где располагается facies articularis acromialis?",
+    "options": [
+      "на акромиальном конце ключицы",
+      "на грудинном конце ключице",
+      "на рёберной поверхности лопатки",
+      "на дистальном эпифизе плечевой кости"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Как с латинского переводится «pollex»?",
+    "options": [
+      "большой палец кисти",
+      "указательный палец кисти",
+      "средний палец кисти",
+      "безымянный палец кисти"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Как с латинского переводится «index»?",
+    "options": [
+      "указательный палец кисти",
+      "средний палец кисти",
+      "безымянный палец кисти",
+      "мизинец кисти"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Как с латинского переводится «digitus medius»?",
+    "options": [
+      "средний палец кисти",
+      "большой палец кисти",
+      "указательный палец кисти",
+      "безымянный палец кисти"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Как с латинского переводится «digitus innominis»?",
+    "options": [
+      "безымянный палец кисти",
+      "средний палец кисти",
+      "большой палец кисти",
+      "указательный палец кисти"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Как с латинского переводится «digitus minimus»?",
+    "options": [
+      "мизинец кисти",
+      "указательный палец кисти",
+      "безымянный палец кисти",
+      "большой палец кисти"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе костей относятся фаланги пальцев?",
+    "options": [
+      "короткими трубчатыми",
+      "короткими губчатыми",
+      "смешанными",
+      "длинными трубчатыми"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько фаланг образуют скелет среднего пальца кисти?",
+    "options": [
+      "3",
+      "2",
+      "5",
+      "1"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько фаланг образуют скелет большого пальца кисти?",
+    "options": [
+      "2",
+      "3",
+      "1",
+      "4"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите фаланги, образующие скелет II−V пальцев кисти?",
+    "options": [
+      "phalanx proximalis, media, distalis",
+      "phalanx superior, media, inferior",
+      "phalanx media, intermedia, lateralis",
+      "phalanx proximalis, distalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите фаланги, образующие скелет большого пальца кисти?",
+    "options": [
+      "phalanx proximalis, distalis",
+      "phalanx superior, media, inferior",
+      "phalanx proximalis, media, distalis",
+      "phalanx media, intermedia, lateralis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "28 Какие кости образуют предплечье?.",
+    "options": [
+      "ulna et radius",
+      "carpus et metacarpus",
+      "humerus et femur",
+      "tibia et fibula"
+    ],
+    "answer": 0
+  }
+]

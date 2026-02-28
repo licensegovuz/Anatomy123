@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Укажите латинское название клиновидной кости.",
+    "options": [
+      "os sphenoidale",
+      "os temporale",
+      "os zygomaticum",
+      "os occipitale"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Чем ограничено sella turcica сзади?",
+    "options": [
+      "dorsum sellae",
+      "tuberculum sellae",
+      "tuberculum articulare",
+      "lingula sphenoidalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Чем ограничено sella turcica спереди?",
+    "options": [
+      "tuberculum sellae",
+      "dorsum sellae",
+      "tuberculum articulare",
+      "lingula sphenoidalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где расположена fossa hypophysialis?",
+    "options": [
+      "на дне турецкого седла",
+      "на верхушке пирамиды височной кости",
+      "в области ската",
+      "на передней поверхности чешуи лобной кости"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие отростки расположены на спинке седла?",
+    "options": [
+      "processus clinoideus posterior",
+      "processus pterigoideus",
+      "spina sphenoidalis",
+      "limbus sphenoidalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Чему соответствует jugum sphenoidale?",
+    "options": [
+      "место соединения малых крыльев клиновидной кости",
+      "место соединения пластинок крыловидного отростка",
+      "место расположения гипофиза",
+      "место прохождения сонной артерии"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где располагается sulcus chiasmaticus?",
+    "options": [
+      "спереди от tuberculum sellae",
+      "сзади от dorsum sellae",
+      "на alae majores ossis sphenoidalis",
+      "на lamina cribrosa ossis ethmoidalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что соединяет клиновидную кость с решётчатой?",
+    "options": [
+      "limbus sphenoidalis",
+      "lingula sphenoidalis",
+      "margo squamosus",
+      "margo parietalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что находится сбоку от sella turcica?",
+    "options": [
+      "sulcus caroticus",
+      "foramen spinosum",
+      "canalis opticus",
+      "concha sphenoidalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что образуется при соединении тела клиновидной кости и базилярной части затылочной кости?",
+    "options": [
+      "clivus",
+      "rostrum",
+      "crista galli",
+      "pars tympanica"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где располагается rostrum sphenoidalе?",
+    "options": [
+      "на нижнем конце клиновидного гребня",
+      "на верхнем конце клиновидного гребня",
+      "вблизи большого затылочного отверстия",
+      "на малых крыльях клиновидной кости"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К каким костям относится os sphenoidale по классификации М.Г. Привеcа?",
+    "options": [
+      "к воздухоносным",
+      "к плоским",
+      "к губчатым",
+      "к сесамовидным"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что относится к постоянным отверстиям на больших крыльях клиновидной кости",
+    "options": [
+      "foramen rotundum, foramen ovale",
+      "foramen occipitale magnum, foramen incisivum",
+      "foramen venosum, foramen infraorbitale",
+      "foramen spinosum, foramen mentale"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что расположено по бокам от crista sphenoidalis?",
+    "options": [
+      "concha sphenoidalis",
+      "alae majores",
+      "processus pterygoideus",
+      "alae minores"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Продолжением какой структуры является rostrum sphenoidalе?",
+    "options": [
+      "crista sphenoidalis",
+      "concha sphenoidalis",
+      "crista galli",
+      "processus zygomaticus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что представляет собой concha sphenoidalis?",
+    "options": [
+      "передняя стенка клиновидной пазухи",
+      "кость лицевого черепа",
+      "часть лабиринта решетчатой кости",
+      "часть пирамиды височной кости"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где располагается apertura sinus sphenoidalis?",
+    "options": [
+      "сверху над concha sphenoidalis",
+      "сбоку от corpus sellae",
+      "позади dorsum sellae",
+      "на alae minores ossis sphenoidalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что характерно для sinus sphenoidalis?",
+    "options": [
+      "располагается в теле клиновидной кости",
+      "открывается в нижний носовой ход",
+      "сообщается с глазницей",
+      "находится в основании крыловидного отростка"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что не характерно для sinus sphenoidalis?",
+    "options": [
+      "находится в основании крыловидного отростка",
+      "располагается в теле клиновидной кости",
+      "открывается в верхний носовой ход",
+      "разделена тонкой перегородкой на две половины"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где располагается canalis opticus?",
+    "options": [
+      "между корнями alae minores",
+      "в основании processus pterygoideus",
+      "на pars petrosa ossis temporalis",
+      "между ala major и ala minor ossis sphenoidalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что образуется между малыми и большими крыльями клиновидной кости?",
+    "options": [
+      "fissure orbitalis superior",
+      "fissure orbitalis inferior",
+      "canalis pterygoideus",
+      "foramen lacerum"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что располагается на малых крыльях клиновидной кости?",
+    "options": [
+      "processus clinoideus anterior",
+      "lingula sphenoidalis",
+      "spina sphenoidalis",
+      "foramen ovale"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько поверхностей имеет большое крыло клиновидной кости?",
+    "options": [
+      "5",
+      "3",
+      "1",
+      "7"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Между какими костями располагается os sphenoidale?",
+    "options": [
+      "os frontale, os occipitale, os temporale",
+      "os nasale, maxilla, mandibula",
+      "os lacrimale, os ethmoidale, os zygomaticum",
+      "os occipitale, os temporale, os hyoideum"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "С какой костью соединяется большое крыло клиновидной кости?",
+    "options": [
+      "os temporalis",
+      "os occipitalis",
+      "os nasale",
+      "os lacrimale"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие отверстия располагаются на больших крыльях клиновидной кости?",
+    "options": [
+      "foramen rotundum, ovale, spinosum",
+      "foramen caecum, lacerum, jugulare",
+      "foramen incisivum, palatinum major, mastoideum",
+      "foramen magnum, condylaris, parietale"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где располагается spina sphenoidalis?",
+    "options": [
+      "на больших крыльях клиновидной кости",
+      "на малых крыльях клиновидной кости",
+      "на пирамиде височной кости",
+      "на латеральной части затылочной кости"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какое отверстие располагается на малых крыльях клиновидной кости?",
+    "options": [
+      "canalis opticus",
+      "foramen rotundum",
+      "foramen lacerum",
+      "foramen spinosum"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Куда направлена facies cerebralis больших крыльев клиновидной кости?",
+    "options": [
+      "в полость средней черепной ямки",
+      "в полость крыло-небной ямки",
+      "на переднюю поверхность черепа",
+      "на наружное основание черепа"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Куда направлена facies orbitalis больших крыльев клиновидной кости?",
+    "options": [
+      "в область глазницы",
+      "в область носовой полости",
+      "в полость задней черепной ямки",
+      "на наружное основание черепа"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Куда направлена facies temporalis больших крыльев клиновидной кости?",
+    "options": [
+      "в область височной ямки",
+      "в область глазницы",
+      "на переднюю поверхность черепа",
+      "на наружное основание черепа"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Куда направлена facies infratemporalis больших крыльев клиновидной кости?",
+    "options": [
+      "в область подвисочной ямки",
+      "в полость передней черепной ямки",
+      "на переднюю поверхность черепа",
+      "на наружное основание черепа"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Куда направлена facies maxillaries больших крыльев клиновидной кости?",
+    "options": [
+      "в область крыло-нёбной ямки",
+      "на переднюю поверхность черепа",
+      "в полость задней черепной ямки",
+      "на наружное основание черепа"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Из чего состоит крыловидный отросток клиновидной кости?",
+    "options": [
+      "lamina medialis et lamina lateralis",
+      "lamina cribrosa et lamina horisontalis",
+      "pars basilaris et pars lateralis",
+      "pars mastoidea et pars petrosa"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "С какими костями соединяется os sphenoidale?",
+    "options": [
+      "os occipitale, os frontale",
+      "maxilla, mandibulla",
+      "os lacrimale, os nasale",
+      "os hyoideum, concha nasalis inferior"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где располагается hamulus pterygoideus?",
+    "options": [
+      "на lamina medialis processus pterygoideus",
+      "на squama ossis frontalis",
+      "на pars petrosa ossis temporalis",
+      "на pars basilaris ossis occipitalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где располагается крыловидная ямка?",
+    "options": [
+      "между lamina medialis et lamina lateralis processus pterygoideus",
+      "между ala major et ala minor ossis sphenoidalis",
+      "у основания lamina medialis processus pterygoideus",
+      "вдоль ala minor ossis sphenoidalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где проходит canalis pterygoideus?",
+    "options": [
+      "в основании крыловидного отростка",
+      "между корнями малых крыльев клиновидной кости",
+      "между малыми и большими крыльями клиновидной кости",
+      "через большое крыло клиновидной кости"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Укажите латинское название височной кости?",
+    "options": [
+      "os temporale",
+      "os parietale",
+      "os zygomaticim",
+      "os sphenoidalе"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите части височной кости",
+    "options": [
+      "pars squamosa, pars tympanica, pars petrosa",
+      "squama, pars basilaris, pars lateralis",
+      "corpus, alae majores, alae minores",
+      "corpus, processus frontalis, processus zygomaticus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Из скольки частей состоит височная кость?",
+    "options": [
+      "3",
+      "5",
+      "1",
+      "7"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "С какими костями соединяется чешуйчатая часть височной кости?",
+    "options": [
+      "os parietale, os sphenoidale",
+      "os frontale, os occipitale",
+      "os ethmoidale, os palatinum",
+      "os zygomaticum, os maxillae"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Куда обращена facies cerebralis височной кости?",
+    "options": [
+      "в полость черепа",
+      "в область подвисочной ямки",
+      "на наружное основание черепа",
+      "в полость глазницы"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Куда обращена facies temporalis височной кости?",
+    "options": [
+      "в область височной ямки",
+      "в полость черепа",
+      "на наружное основание черепа",
+      "в полость глазницы"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где проходит sulcus arteriae temporalis mediae?",
+    "options": [
+      "на facies temporalis височной кости",
+      "на pars mastoidea височной кости",
+      "на facies externa теменной кости",
+      "на pars basilaris затылочной кости"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Из скольких частей состоит клиновидная кость?",
+    "options": [
+      "4",
+      "5",
+      "8",
+      "2"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "С какой костью соединяется височная кость при помощи скулового отростка?",
+    "options": [
+      "os zygomaticum",
+      "os parietale",
+      "os sphenoidale",
+      "os frontale"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К каким костям относится os temporale по классификации М.Г. Привеcа?",
+    "options": [
+      "к воздухоносным",
+      "к плоским",
+      "к губчатым",
+      "к сесамовидным"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Во что продолжается скуловой отросток височной кости кзади?",
+    "options": [
+      "crista supramastoidea",
+      "linea temporalis superior",
+      "fissura petrosquamosa",
+      "foveola suprameatica"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Чем ограничена нижнечелюстная ямка височной кости спереди?",
+    "options": [
+      "tuberculum articulare",
+      "spina tympanica major",
+      "processus styloideus",
+      "incisura mastoidea"
+    ],
+    "answer": 0
+  }
+]

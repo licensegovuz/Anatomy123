@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Сколько отростков имеется на нижней носовой раковине?",
+    "options": [
+      "3",
+      "5",
+      "2",
+      "1"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько отростков имеет верхняя челюсть?",
+    "options": [
+      "4",
+      "5",
+      "3",
+      "2"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Через какое отверстие полость черепа сообщается с позвоночным каналом?",
+    "options": [
+      "foramen magnum",
+      "foramen jugulare",
+      "protuberantia occipitalis interna",
+      "clivus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая анатомическая структура расположена в задней черепной ямке?",
+    "options": [
+      "porus acusticus internus",
+      "foramen spinosum",
+      "cella turcica",
+      "sulcus caroticus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Чего имеется на processus condylaris mandibulae?",
+    "options": [
+      "caput mandibulae",
+      "foramen mentale",
+      "fossa temporalis",
+      "fovea digastrica"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где расположено foramen mandibulae?",
+    "options": [
+      "на внутренней поверхности ветви нижней челюсти",
+      "на наружной поверхности ветви нижней челюсти",
+      "на теле нижней челюсти",
+      "в области подбородка"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где заканчивается нижнечелюстной канал?",
+    "options": [
+      "foramen mentale",
+      "alveoli dentales",
+      "foramen mandibulae",
+      "foramen ovale"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какое образование находится на глазничной поверхности верхней челюсти?",
+    "options": [
+      "sulcus infraorbitalis",
+      "crista ethmoidalis",
+      "foramen incisivum",
+      "linea obliqua"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какое образование отсутствует на ветви нижней челюсти?",
+    "options": [
+      "spina mentalis",
+      "foramen mandibulae",
+      "lingual mandibulae",
+      "sulcus mylohyoideus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько поверхностей имеет тело верхней челюсти?",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "5"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая из перечисленных костей относится к костям лицевого черепа?",
+    "options": [
+      "os zygomaticum",
+      "os parietale",
+      "os tempotale",
+      "os frontale"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что расположено на латеральной (глазничной) поверхности слёзной кости?",
+    "options": [
+      "crista lacrimalis posterior",
+      "crista lacrimalis anterior",
+      "lamina horizontalis",
+      "canalis nasolacrimalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "С какой костью соединяется носовая кость?",
+    "options": [
+      "os frontale",
+      "os palatum",
+      "os lacrimale",
+      "os parietale"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "С какими костями соединяется нижняя носовая раковина?",
+    "options": [
+      "os lacrimale, os ethmoidale, maxilla",
+      "os nasale, os occipitale, mandibula",
+      "os palatinum, os zygomaticum, vomer",
+      "os temporale, os hyoideum, os lacrimale"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Дайте характеристику vomer",
+    "options": [
+      "непарная кость, образующая заднюю часть костной перегородки носа",
+      "парная кость, образующая переднюю часть костной перегородки носа",
+      "парная кость, образующая латеральную стенку полости носа",
+      "непарная кость, образующая переднюю часть костной перегородки носа"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "От размеров скуловой кости зависит:",
+    "options": [
+      "ширина лица",
+      "высота лба",
+      "форма свода черепа",
+      "форма головы в целом"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько поверхностей имеет скуловая кость?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "1"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что располагается на глазничной поверхности лобного отростка скуловой кости?",
+    "options": [
+      "tuberculum orbitale",
+      "tuberculum pharyngeum",
+      "crista ethmoidalis",
+      "spina mentale"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что расположено на лобном отростке верхней челюсти?",
+    "options": [
+      "crista lacrimalis anterior",
+      "crista lacrimalis posterior",
+      "crista galli",
+      "crista nasalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Как расположен нёбный отросток верхней челюсти?",
+    "options": [
+      "горизонтально",
+      "вертикально",
+      "под углом 45° к телу верхней челюсти",
+      "перпендикулярно скуловому отростку верхней челюсти"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Посредством чего соединяются медиальные края правого и левого нёбных отростков верхней челюсти?",
+    "options": [
+      "sutura palatine mediana",
+      "sutura palatina transversa",
+      "canalis incisivus",
+      "sutura incisiva"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Чем разделены альвеолы на верхней и нижней челюстях?",
+    "options": [
+      "septa interalveolaria",
+      "septa interradicularia",
+      "septa interossea",
+      "septa interdentalia"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Из каких пластинок состоит нёбная кость?",
+    "options": [
+      "laminae horizontalis et perpendicularis",
+      "laminae obliqus et verticalis",
+      "laminae medialis et lateralis",
+      "laminae superior et inferior"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где располагается os hyoideum?",
+    "options": [
+      "в области шеи, между нижней челюстью и верхним краем гортани",
+      "непосредственно под щитовидным хрящом",
+      "впереди 2го шейного позвонка, имеет соединение с ним",
+      "в области ярёмной вырезки рукоятки грудины"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Перечислите поверхности os zygomaticum",
+    "options": [
+      "латеральная, височная, глазничная",
+      "лобная, ушная, верхнечелюстная",
+      "носовая, нёбная, нижнечелюстная",
+      "щёчная, теменная, затылочная"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Чем образована нижняя часть тела нижней челюсти?",
+    "options": [
+      "basis mandibulae",
+      "ramus mandibulae",
+      "angulus mandibulae",
+      "spina mentalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Как называется свободный верхний край альвеолярной части нижней челюсти?",
+    "options": [
+      "arcus alveolaris",
+      "basis mandibulae",
+      "ramus mandibulae",
+      "angulus mandibulae"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что находится на наружной поверхности угла нижней челюсти?",
+    "options": [
+      "tuberositas masseterica",
+      "tuberositas pterygoidea",
+      "fovea sublingualis",
+      "torus mandibularis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что находится на внутренней поверхности угла нижней челюсти?",
+    "options": [
+      "tuberositas pterygoidea",
+      "tuberositas masseterica",
+      "torus mandibularis",
+      "linea mylohyoidea"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Дайте характеристику maxilla",
+    "options": [
+      "воздухоносная кость, в толще тела располагается Гайморова пазуха",
+      "состоит полностью из губчатого вещества",
+      "воздухоносная кость, в толще тела располагаются ячейки верхней челюсти",
+      "воздухоносная кость, в толще тела располагается верхнечелюстная пещера"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что располагается на границе между лобным отростком и медиальным краем глазничной поверхности тела верхней челюсти?",
+    "options": [
+      "incisura lacrimalis",
+      "incisura nasalis",
+      "incisura sphenopalatina",
+      "incisura orbitalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что отделяет переднюю поверхность тела верхней челюсти от её глазничной поверхности?",
+    "options": [
+      "margo infraorbitalis",
+      "margo supraorbitalis",
+      "margo lacrimalis",
+      "margo nasalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Перечислите мелкие кости лицевого черепа",
+    "options": [
+      "os lacrimale, os nasale, concha nasalis inferior",
+      "mandibula, maxilla, os hyoideum",
+      "os zygomaticum, os frontale, os palatinum",
+      "maxilla, os lacrimale, mandibula"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Перечислите непарные кости лицевого черепа",
+    "options": [
+      "mandibula, vomer, os hyoideum",
+      "os zygomaticum, os ethmoidale, os palatinum",
+      "maxilla, os lacrimale, mandibula",
+      "os lacrimale, os nasale, concha nasalis inferior"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите парные кости лицевого черепа",
+    "options": [
+      "os lacrimale, os nasale, concha nasalis inferior",
+      "mandibula, vomer, os hyoideum",
+      "os zygomaticum, os ethmoidale, os palatinum",
+      "maxilla, os lacrimale, mandibula"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько отростков имеет скуловая кость?",
+    "options": [
+      "3",
+      "5",
+      "2",
+      "1"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "В образовании какой стенки полости носа участвует concha nasalis inferior?",
+    "options": [
+      "латеральной стенки",
+      "медиальной стенки",
+      "нижней стенки",
+      "верхней стенки"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что располагается в центре подвисочной поверхности верхней челюсти?",
+    "options": [
+      "foramina alveolaria",
+      "sulci palatini",
+      "alveoli dentales",
+      "juga alveolaria"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Чем образована arcus zygomaticus?",
+    "options": [
+      "височным отростком скуловой кости и скуловым отростком височной кости",
+      "височным отростком скуловой кости и скуловым отростком лобной кости",
+      "скуловым отростком верхней челюсти и телом скуловой кости",
+      "скуловым отростком верхней челюсти и скуловым отростком височной кости"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какое из отверстий находится в задней черепной ямке?",
+    "options": [
+      "foramen jugulare",
+      "foramen ovale",
+      "foramen rotundum",
+      "foramen spinosum"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая кость участвует в образовании задней черепной ямки?",
+    "options": [
+      "os occipitale",
+      "os frontale",
+      "os ethmoidale",
+      "os nasale"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Посредством чего глазница сообщается со средней черепной ямкой?",
+    "options": [
+      "fissura orbitalis superior",
+      "fissura orbitalis inferior",
+      "foramen cribrosa",
+      "canalis nasolacrimalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Посредством чего глазница сообщается с подвисочной ямкой?",
+    "options": [
+      "fissura orbitalis inferior",
+      "fissura orbitalis superior",
+      "canalis infraorbitalis",
+      "canalis nasolacrimalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Круглое отверстие ведёт из полости черепа в:",
+    "options": [
+      "fossa pterygopalatina",
+      "orbita",
+      "basis cranii externa",
+      "fossa infratemporalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Чем образована нижняя стенка носовой полости?",
+    "options": [
+      "нёбным отростком верхней челюсти и горизонтальной пластинкой нёбной кости",
+      "перпендикулярной пластинкой решётчатой кости и телом нёбной кости",
+      "горизонтальной пластинкой нёбной кости и сошником",
+      "перпендикулярной пластинкой нёбной кости и сошником"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какое образование открывается в нижний носовой ход?",
+    "options": [
+      "canalis nasolacrimalis",
+      "sinus sphenoidalis",
+      "sinus maxillaris",
+      "labyrinthus ethmoidalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая кость лицевого черепа является подвижной?",
+    "options": [
+      "mandibula",
+      "maxilla",
+      "os occipitale",
+      "os zygomaticum"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какое из представленных отверстий сообщается с глазницей?",
+    "options": [
+      "fissura orbitalis superior",
+      "fissura petrotympanica",
+      "foramen ovale",
+      "foramen spinosum"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Костное нёбо (palatum osseum) образовано:",
+    "options": [
+      "нёбными отростками верхних челюстей и пластинками нёбных костей",
+      "альвеолярной дугой верхней челюсти",
+      "нёбными отростками верхних челюстей",
+      "пластинками нёбных костей"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "С помощью чего соединяются правая и левая половины твёрдого нёба?",
+    "options": [
+      "sutura palatina mediana",
+      "sutura palatina transversa",
+      "sutura metopica",
+      "linea obliqua"
+    ],
+    "answer": 0
+  }
+]

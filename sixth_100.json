@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Какую форму имеет суставная поверхность латерального мыщелка?",
+    "options": [
+      "круглую вогнутую",
+      "квадратную ровную",
+      "овальную выпуклую",
+      "треугольную ребристую"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что находится латеральном мыщелке большеберцовой кости находится?",
+    "options": [
+      "facies articularis fibularis",
+      "incisura fibularis",
+      "tuberositas tibiae",
+      "sulcus malleolaris"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько краев имеет большеберцовая кость?",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "5"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько поверхностей имеет большеберцовая кость?",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "5"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какой край большеберцовой кости хорошо прощупывается через кожу?",
+    "options": [
+      "margo anterior",
+      "margo medialis",
+      "margo interosseus",
+      "margo posterior"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где находится tuberositas tibiae??",
+    "options": [
+      "на проксимальном эпифизе большеберцовой кости",
+      "на дистальном эпифизе бедренной кости",
+      "на теле малоберцовой кости",
+      "на крыле подвздошной кости"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что ограничивает acetabulum?",
+    "options": [
+      "limbus acetabuli",
+      "linea aspera",
+      "linea arcuata",
+      "labium internum"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "На какой кости проходит linea musculi solei?",
+    "options": [
+      "tibia",
+      "fibula",
+      "femur",
+      "os coxae"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе костей относится малоберцовая кость?",
+    "options": [
+      "к длинным трубчатым",
+      "к смешанным",
+      "к коротким трубчатым",
+      "к плоским"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Чем представлен дистальный эпифиз большеберцовой кости?",
+    "options": [
+      "malleolus medialis",
+      "malleolus lateralis",
+      "trochlea tali",
+      "tuber calcanei"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где расположена caput fibulae?",
+    "options": [
+      "на проксимальном эпифизе малоберцовой кости",
+      "на дистальном эпифизе большеберцовой кости",
+      "на теле бедренной кости",
+      "на крыле подвздошной кости"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что располагается на дистальном эпифизе малоберцовой кости?",
+    "options": [
+      "malleolus lateralis",
+      "caput fibulae",
+      "condylus medialis",
+      "collum fibulae"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "С какой костью соединяется малоберцовая кость при помощи facies articularis capitis fibulae?",
+    "options": [
+      "tibia",
+      "tibia",
+      "patella",
+      "talus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько краев имеет малоберцовая кость?",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "5"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько поверхностей имеет малоберцовая кость?",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "5"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где находится collum fibulae?",
+    "options": [
+      "между головкой и телом малоберцовой кости",
+      "на дистальном эпифизе большеберцовой кости",
+      "между головкой и вертелами бедренной кости",
+      "между головкой и телом пяточной кости"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите части стопы",
+    "options": [
+      "tarsus, metatarsus, phalanges",
+      "carpus, metacarpus, phalanges",
+      "femur, tibia, fibula",
+      "humer, ulna, radius"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что располагается на дне acetabulum?",
+    "options": [
+      "facies lunata et fossa acetabuli",
+      "foramen obturatum et sulcus obturatorius",
+      "trochanter major et trochanter minor",
+      "linea arcuata et crista iliaca"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько костей участвуют в образовании предплюсны?",
+    "options": [
+      "7",
+      "8",
+      "4",
+      "10"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе костей относятся ossa tarsi?",
+    "options": [
+      "к коротким губчатым",
+      "к коротким трубчатым",
+      "к сесамовидным",
+      "к смешанным"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе костей относятся ossa metatarsi?",
+    "options": [
+      "к коротким трубчатым",
+      "к коротким губчатым",
+      "к сесамовидным",
+      "к смешанным"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите кости проксимального ряда предплюсны?",
+    "options": [
+      "talus, calcaneus",
+      "os naviculare, os pisiforme",
+      "os cunieforme laterale, os cunieforme mediale",
+      "os cuboideum, os triquetrum"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите кости дистального ряда предплюсны?",
+    "options": [
+      "os cuboideum, os cunieforme intermedium",
+      "talus, os cunieforme mediale",
+      "calcaneus, os cunieforme laterale",
+      "os naviculare, os trapezium"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько костей расположены в проксимальном ряду предплюсны?",
+    "options": [
+      "2",
+      "5",
+      "4",
+      "7"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Как с латинского переводится «femur»?",
+    "options": [
+      "бедренная кость",
+      "большеберцовая кость",
+      "малоберцовая кость",
+      "тазовая кость"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Как с латинского переводится «tibia»?",
+    "options": [
+      "большеберцовая кость",
+      "бедренная кость",
+      "малоберцовая кость",
+      "тазовая кость"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Как с латинского переводится «fibula»?",
+    "options": [
+      "малоберцовая кость",
+      "бедренная кость",
+      "большеберцовая кость",
+      "тазовая кость"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько костей образует скелет плюсны?",
+    "options": [
+      "5",
+      "4",
+      "8",
+      "7"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие кости ограничивают запирательное отверстие?",
+    "options": [
+      "ветви лобковой кости и седалищная кость",
+      "тазовая кость и крестец",
+      "подвздошная и седалищная кости",
+      "ветви лобковой кости"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Из каких частей состоит плюсневая кость?",
+    "options": [
+      "basis, corpus, caput",
+      "caput, collum, corpus",
+      "caput, corpus, condylus",
+      "trochlea, collum, tuber"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько фаланг имеется на одной стопе?",
+    "options": [
+      "14",
+      "9",
+      "15",
+      "8"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько фаланг имеют II-V пальцы стопы?",
+    "options": [
+      "3",
+      "2",
+      "5",
+      "4"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько фаланг имеет I палец стопы?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Как с латинского переводится «hallux»?",
+    "options": [
+      "большой палец стопы",
+      "большой палец кисти",
+      "четвертый палец стопы",
+      "пятый палец кисти"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Как с латинского переводится «digitus secundus»?",
+    "options": [
+      "второй палей стопы",
+      "большой палец кисти",
+      "четвертый палец стопы",
+      "пятый палец кисти"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Как с латинского переводится «digitus tertius»?",
+    "options": [
+      "третий палей стопы",
+      "большой палец стопы",
+      "четвертый палец стопы",
+      "пятый палец стопы"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Как с латинского переводится «digitus quartus»?",
+    "options": [
+      "четвертый палец стопы",
+      "третий палей стопы",
+      "большой палец стопы",
+      "второй палец стопы"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько фаланг составляют скелет большого пальца стопы?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие фаланги различают в digitus minimus?",
+    "options": [
+      "phalanx proximalis, phalanx media, phalanx distalis",
+      "phalanx medialis, phalanx intermedia, phalanx lateralis",
+      "phalanx proximalis, phalanx distalis",
+      "phalanx medialis, phalanx lateralis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите части подвздошной кости",
+    "options": [
+      "из тела и крыла",
+      "из верхней и нижней ветвей, и тела",
+      "из тела и запирательного отверстия",
+      "из блока и ветви"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Из каких частей состоит каждая фаланга стопы?",
+    "options": [
+      "basis, corpus, caput",
+      "caput, collum, corpus",
+      "caput, corpus, condylus",
+      "trochlea, collum, tuber"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "С чем соединяется головка каждой плюсневой кости?",
+    "options": [
+      "с проксимальной фалангой соответствующего пальца",
+      "с одной или несколькими костями предплюсны",
+      "с дистальной фалангой соответствующего пальца",
+      "с основание соседней плюсневой кости"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "С чем соединяется основание каждой плюсневой кости?",
+    "options": [
+      "с одной или несколькими костями предплюсны",
+      "с проксимальной фалангой соответствующего пальца",
+      "с дистальной фалангой соответствующего пальца",
+      "с основание соседней плюсневой кости"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите части talus",
+    "options": [
+      "caput, collum, corpus",
+      "basis, corpus, caput",
+      "caput, corpus, condylus",
+      "trochlea, collum, tuber"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Укажите латинское название таранной кости стопы",
+    "options": [
+      "talus",
+      "calcaneus",
+      "os naviculare",
+      "os cuboideum"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Укажите латинское название ладьевидной кости стопы",
+    "options": [
+      "os naviculare",
+      "os cuboideum",
+      "os scaphoideum",
+      "os cunieforme"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Укажите латинское название пяточной кости",
+    "options": [
+      "calcaneus",
+      "fibula",
+      "talus",
+      "patella"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "На какой кости расположена malleolus lateralis?",
+    "options": [
+      "fibula",
+      "tibia",
+      "os ischium",
+      "os pubis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "На какой кости расположена malleolus medialis?",
+    "options": [
+      "tibia",
+      "fibula",
+      "talus",
+      "calcaneus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где расположен tuberculum adductorium?",
+    "options": [
+      "на epicondylus medialis femoris",
+      "на epicondylus lateralis femoris",
+      "на condylus medialis tibiae",
+      "на condylus lateralis tibiae"
+    ],
+    "answer": 0
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Какие кости составляют скелет нижней конечности ?",
+    "options": [
+      "тазовый пояс и свободная нижняя конечность",
+      "бедро, голень, стопа",
+      "предплюсна, плюсна, пальцы",
+      "тазовый пояс и бедро"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где располагается sulcus supraacetabulalis?",
+    "options": [
+      "между краем вертлужной впадины и телом подвздошной кости",
+      "между ветвями лобковой кости",
+      "между ветвью и телом седалищной кости",
+      "между краем вертлужной впадины и ветвью лобковой кости"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "На какой кости расположена facies patellaris?",
+    "options": [
+      "femur",
+      "tibia",
+      "fibula",
+      "calcaneus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая линия располагается на внутренней поверхности подвздошной кости?",
+    "options": [
+      "linea arcuate",
+      "linea aspera",
+      "linea transversaria",
+      "linea intermedia"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что расположено на верхней части крыла подвздошной кости?",
+    "options": [
+      "crista iliaca",
+      "linea arcuate",
+      "linea aspera",
+      "margo superior"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая линия располагается на гребне подвздошной кости?",
+    "options": [
+      "linea intermedia",
+      "linea glutea inferior",
+      "linea aspera",
+      "linea transversaria"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что располагается на внутренней поверхности крыла подвздошной кости?",
+    "options": [
+      "fossa iliaca",
+      "crista iliaca",
+      "linea aspera",
+      "acetabulum"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Чем заканчивается гребень подвздошной кости спереди?",
+    "options": [
+      "spina iliaca anterior superior",
+      "spina iliaca posterior superior",
+      "spina iliaca posterior inferior",
+      "spina iliaca anterior inferior"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Чем заканчивается гребень подвздошной кости сзади?",
+    "options": [
+      "spina iliaca posterior superior",
+      "spina iliaca anterior superior",
+      "spina ischiadica",
+      "spina iliaca anterior inferior"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где расположена подвздошная ямка?",
+    "options": [
+      "на внутренней поверхности крыла подвздошной кости",
+      "на теле подвздошной кости",
+      "на крестцово-тазовой области подвздошной кости",
+      "в области вертлужной впадины"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "На какой кости располагаются lineae gluteae?",
+    "options": [
+      "на подвздошной кости",
+      "на лобковой кости",
+      "на седалищной кости",
+      "в бедренной кости"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие линии располагаются наружной поверхности крыла подвздошной кости?",
+    "options": [
+      "lineae glutea anterior, inferior et posterior",
+      "labium externum, linea intermedia et labium internum",
+      "linea aspera, linea arcuata et linea pectinea",
+      "linea supracondylaris medialis et linea supracondylaris lateralis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие кости образуют таз?",
+    "options": [
+      "крестец, две тазовые кости",
+      "подвздошная, седалищная и лобковая кости",
+      "большой таз, малый таз",
+      "бедро, голень, стопа"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Как с латинского языка переводится «os ischii»?",
+    "options": [
+      "седалищная кость",
+      "подвздошная кость",
+      "лобковая кость",
+      "тазовая кость"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Как с латинского языка переводится «os ilium»?",
+    "options": [
+      "подвздошная кость",
+      "подвздошная кость",
+      "лобковая кость",
+      "тазовая кость"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Как с латинского языка переводится «os pubis»?",
+    "options": [
+      "лобковая кость",
+      "подвздошная кость",
+      "подвздошная кость",
+      "тазовая кость"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Как с латинского языка переводится «os coxae»?",
+    "options": [
+      "тазовая кость",
+      "подвздошная кость",
+      "подвздошная кость",
+      "лобковая кость"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая кость пояса нижней конечности состоит из тела и ветви?",
+    "options": [
+      "os ischii",
+      "os coxae",
+      "os pubis",
+      "os ilium"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что располагается в месте соединения тела и ветви седалищной кости?",
+    "options": [
+      "tuber ischiadicum",
+      "acetabulum",
+      "foramen obrturatum",
+      "linea aspera"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где находится incisura ischiadica minor?",
+    "options": [
+      "между седалищной остью и седалищным бугром",
+      "между седалищной остью и нижней задней подвздошной остью",
+      "между ветвями лобковой кости",
+      "на дне вертлужной впадины"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где находится incisura ischiadica major?",
+    "options": [
+      "между седалищной остью и нижней задней подвздошной остью",
+      "между ветвями лобковой кости",
+      "на дне вертлужной впадины",
+      "между седалищной остью и седалищным бугром"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите составные части лобковой кости",
+    "options": [
+      "тело, верхняя и нижняя ветви",
+      "тело и отростки",
+      "тело и крыло",
+      "тело и эпифизы"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где находится eminentia iliopubica??",
+    "options": [
+      "на месте сращения подвздошной и лобковой костей",
+      "на месте перехода ветви седалищной кости в тело",
+      "на границе между большим и малым тазом",
+      "между ветвями лобковых костей"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе костей относится тазовая кость?",
+    "options": [
+      "к плоским костям",
+      "к губчатым костям",
+      "к смешанным костям",
+      "к воздухоносным костям"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где располагается sulcus obturatorius?",
+    "options": [
+      "на границе между вертлужной впадиной и верхней ветвью лобковой кости",
+      "в месте соединения верхней и нижней ветвей лобковой кости",
+      "в месте перехода тела подвздошной кости в крыло",
+      "между телом и бугром седалищной кости"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько костей образуют тазовую кость?",
+    "options": [
+      "3",
+      "1",
+      "5",
+      "2"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "По какой линии проходит граница между большим и малым тазом?",
+    "options": [
+      "linea terminalis",
+      "linea intermedia",
+      "linea aspera",
+      "linea supracondylaris lateralis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Через какую анатомическую структуру проходит linea terminalis?",
+    "options": [
+      "linea arcuata",
+      "linea intermedia",
+      "linea aspera",
+      "linea supracondylaris lateralis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Укажите характерные признаки мужского таза?",
+    "options": [
+      "мыс сильно выступает в полость малого таза",
+      "таз в целом шире и ниже",
+      "крылья подвздошных костей развернуты в стороны",
+      "крестец шире и короче"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Укажите отделы свободной нижней конечности",
+    "options": [
+      "femur, crus, pes",
+      "tibia, fibula, patella",
+      "tarsus, metatarsus, digiti",
+      "os ilium, os ischium, os pubis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая кость образует скелет бедра?",
+    "options": [
+      "femur",
+      "tibia",
+      "fibula",
+      "patella"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе костей относится бедренная кость?",
+    "options": [
+      "к длинным трубчатым",
+      "к плоским",
+      "к коротким трубчатым",
+      "к смешанным"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что расположено на проксимальном эпифизе бедренной кости?",
+    "options": [
+      "collum femoris",
+      "linea aspera",
+      "condylus medialis",
+      "tuberculum adductorium"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где располагаются trochanter major et trochanter minor?",
+    "options": [
+      "на границе между шейкой и телом бедренной кости",
+      "между большеберцовой и малоберцовой костями",
+      "между телом и дистальным эпифизом бедренной кости",
+      "относятся к костям предплюсны"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что располагается на латеральной поверхности тазовой кости?",
+    "options": [
+      "acetabulum",
+      "patella",
+      "tuberositas ilii",
+      "fossa iliaca"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Чем соединены trochanter major et trochanter minor спереди?",
+    "options": [
+      "linea intertochanterica",
+      "crista intertrochanterica",
+      "linea intercondylaris",
+      "eminentia intercondylaris"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Чем соединены trochanter major et trochanter minor сзади?",
+    "options": [
+      "crista intertrochanterica",
+      "linea intertochanterica",
+      "linea intercondylaris",
+      "eminentia intercondylaris"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что расположено на головке бедренной кости?",
+    "options": [
+      "fovea capitis femoris",
+      "linea aspera",
+      "tuberositas glutea",
+      "eminentia intercondylaris"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая линия проходит по задней поверхности тела бедренной кости?",
+    "options": [
+      "linea aspera",
+      "linea terminalis",
+      "linea intermedia",
+      "linea arcuata"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Продолжением какого анатомического образования является linea pectinea?",
+    "options": [
+      "labium mediale lineae asperae",
+      "labium laterale lineae asperae",
+      "linea m. solei",
+      "crista intertrochanterica"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Продолжением какого анатомического образования является tuberositas glutea?",
+    "options": [
+      "labium laterale lineae asperae",
+      "linea m. solei",
+      "crista intertrochanterica",
+      "labium mediale lineae asperae"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Во что переходит linea aspera в нижней трети бедра?",
+    "options": [
+      "в медиальную и латеральную надмыщелковые линии",
+      "в lineae terminale",
+      "в межвертельную линию",
+      "в linea m. solei"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Чем ограничена facies poplitea на бедренной кости?",
+    "options": [
+      "надмыщелковыми линиями",
+      "краями большеберцовой кости",
+      "мыщелками бедренной кости",
+      "краями малоберцовой кости"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что расположено на дистальном эпифизе бедренной кости?",
+    "options": [
+      "condylus medialis et condylus lateralis",
+      "trochanter major et trochanter minor",
+      "labium laterale et labium mediale",
+      "linea pectinea et tuberositas glutea"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какую часть нижней конечности образуют tibia, fibula?",
+    "options": [
+      "crus",
+      "patella",
+      "femur",
+      "pes"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие кости участвуют в образовании acetabulum?",
+    "options": [
+      "os ilium, os ischium, os pubis",
+      "patella, femur, talus",
+      "tibia, fibula, calcaneus",
+      "tarsus, metatarsus, phalanges"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе костей относится большеберцовая кость?",
+    "options": [
+      "к длинным трубчатым",
+      "к смешанным",
+      "к коротким трубчатым",
+      "к плоским"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что расположено на проксимальном эпифизе большеберцовой кости?",
+    "options": [
+      "condylus medialis et lateralis",
+      "malleolus medialis",
+      "caput tibiae",
+      "epicondylus medialis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какое анатомическое образование находится на верхней суставной поверхности большеберцовой кости?",
+    "options": [
+      "eminentia intercondylaris",
+      "facies articularis fibularis",
+      "facies articularis malleoli medialis",
+      "tuberositas tibiae"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какую форму имеет суставная поверхность медиального мыщелка?",
+    "options": [
+      "овальную вогнутую",
+      "квадратную выпуклую",
+      "круглую ровную",
+      "треугольную ребристую"
+    ],
+    "answer": 0
+  }
+]

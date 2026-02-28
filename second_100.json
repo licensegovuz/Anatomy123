@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Как расположена задняя группа мышц предплечья?",
+    "options": [
+      "в 2 слоя",
+      "в 3 слоя",
+      "рядом, все мышцы начинаются от одной точки прикрепления",
+      "мышцы располагаются одна под другой"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где начинаются мышцы передней группы предплечья поверхностного слоя?",
+    "options": [
+      "epicondylus medialis humeri",
+      "epicondylus lateralis humeri",
+      "processus styloideus radii",
+      "caput ulnae"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где начинаются мышцы задней группы предплечья поверхностного слоя?",
+    "options": [
+      "epicondylus lateralis humeri",
+      "epicondylus medialis humeri",
+      "processus styloideus radii",
+      "caput ulnae"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая мышца относится к передней группе мышц предплечья поверхностного слоя?",
+    "options": [
+      "m. pronator teres",
+      "m. flexor digitorum profundus",
+      "m. pronator quadratus",
+      "m. extensor carpi radialis longus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая мышца относится к задней группе мышц предплечья поверхностного слоя?",
+    "options": [
+      "m. extensor digitorum",
+      "m. flexor digitorum superficialis",
+      "m. supinator",
+      "m. palmaris longus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая мышца относится к передней группе мышц предплечья глубокого слоя?",
+    "options": [
+      "m. pronator quadratus",
+      "m. supinator",
+      "m. palmaris longus",
+      "m. brachioradialis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где берет начало задний пучок m. deltoideus?",
+    "options": [
+      "spina scapulae",
+      "extremitas acromialis claviculae",
+      "acromion",
+      "extremitas sternalis claviculae"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая мышца относится к задней группе мышц предплечья глубокого слоя?",
+    "options": [
+      "m. supinator",
+      "m. brachioradialis",
+      "m. palmaris longus",
+      "m. flexor digitorum profundus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Укажите основную функцию m. pronator teres",
+    "options": [
+      "пронирует предплечье",
+      "сгибает кисть в лучезапястном суставе",
+      "разгибает плечо в плечевом суставе",
+      "отводит плечо"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где начинается лучевой сгибатель запястья?",
+    "options": [
+      "epicondylus medialis humeri",
+      "epicondylus lateralis humeri",
+      "processus styloideus radii",
+      "caput ulnae"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие мышцы участвуют в отведении кисти в лучезапястном суставе?",
+    "options": [
+      "mm. flexor carpi radialis et extensor carpi radiales",
+      "mm. flexor carpi ulnaris et extensor carpi ulnaris",
+      "mm. pronator quadratus et pronator teres",
+      "mm. palmares longus et brevis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие мышцы участвуют в приведении кисти в лучезапястном суставе?",
+    "options": [
+      "mm. flexor carpi ulnaris et extensor carpi ulnaris",
+      "mm. flexor carpi radialis et extensores carpi radiales",
+      "mm. pronatores quadratus et teres",
+      "mm. palmares longus et brevis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Куда прикрепляется m. palmaris longus?",
+    "options": [
+      "вплетается в ладонный апоневроз",
+      "к дистальным фалангам пальцев",
+      "к основанию пястных костей",
+      "к костям проксимального ряда запястья"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Откуда начинается локтевой сгибатель запястья?",
+    "options": [
+      "epicondylus medialis humeri",
+      "epicondylus lateralis humeri",
+      "processus styloideus radii",
+      "caput ulnae"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Куда прикрепляется m. flexor digitorum superficialis?",
+    "options": [
+      "к средней фаланге II-V пальцев",
+      "к проксимальной фаланге II-V пальцев",
+      "к дистальной фаланге большого пальца",
+      "к проксимальной фаланге мизинца"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "В каких движениях участвует m. flexor digitorum superficialis?",
+    "options": [
+      "сгибание II–V пальцев в проксимальных межфаланговых суставах",
+      "сгибание большого пальца кисти в межфаланговом суставе",
+      "сгибание плеча в плечевом суставе",
+      "сгибание большого пальца кисти в пястно-фаланговом суставе"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Куда прикрепляется m. flexor digitorum profundus?",
+    "options": [
+      "к дистальной фаланге II-V пальцев",
+      "к проксимальной фаланге II-V пальцев",
+      "к дистальной фаланге большого пальца",
+      "к проксимальной фаланге мизинца"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Куда прикрепляется m. deltoideus?",
+    "options": [
+      "tuberositas deltoidea",
+      "tuberculum majus humeri",
+      "tuberculum minus humeri",
+      "collum сhirurgicum humeri"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какое движение выполняет m. pronator quadratus?",
+    "options": [
+      "пронирует предплечье и кисть",
+      "сгибает предплечье в локтевом суставе",
+      "отведение кисти в лучезапястном суставе",
+      "супинирует предплечье и кисть"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Куда прикрепляется плечелучевая мышца?",
+    "options": [
+      "processus styloideus radii",
+      "epicondylus medialis humeri",
+      "circumferentia radii",
+      "caput ulnae"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где начинается длинный лучевой разгибатель запястья?",
+    "options": [
+      "epicondylus lateralis humeri",
+      "epicondylus medialis humeri",
+      "processus styloideus radii",
+      "caput ulnae"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Куда прикрепляется m. extensor carpi radialis brevis?",
+    "options": [
+      "к основанию 3 пястной кости",
+      "к проксимальной фаланге мизинца",
+      "к дистальной фаланге большого пальца",
+      "к гороховидной кости"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая мышца разгибает мизинец?",
+    "options": [
+      "m. extensor digiti minimi",
+      "m. extensor indicis",
+      "m. flexor digitorum superficialis",
+      "m. flexor digitorum profundus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая мышца разгибает указательный палец?",
+    "options": [
+      "m. extensor indicis",
+      "m. flexor digitorum superficialis",
+      "m. flexor digitorum profundus",
+      "m. extensor digiti minimi"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая мышца располагается в области возвышения большого пальца?",
+    "options": [
+      "m. abductor pollicis brevis",
+      "m. flexor pollicis longus",
+      "m. palmaris brevis",
+      "m. opponens digiti minimi"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая мышца относится к мышцам возвышения большого пальца?",
+    "options": [
+      "m. flexor pollicis longus",
+      "m. palmaris brevis",
+      "m. extensor indicis",
+      "m. flexor pollicis brevis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Какая мышца располагается в области возвышения мизинца?",
+    "options": [
+      "m. palmaris brevis",
+      "m. extensor digiti minimi",
+      "m. brachioradialis",
+      "m. palmaris longus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какую функцию выполняет m. opponens digiti minimi?",
+    "options": [
+      "противопоставляет мизинец большому пальцу",
+      "противопоставляет большой палец всем остальным",
+      "сгибает мизинец",
+      "разгибает указательный палец"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Укажите основную функцию m. deltoideus",
+    "options": [
+      "отведение плеча",
+      "стабилизация плечевого сустава",
+      "супинация плеча",
+      "сгибание плеча"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какую функцию выполняет m. opponens pollicis?",
+    "options": [
+      "противопоставляет большой палец всем остальным",
+      "сгибает большой палец в межфаланговом суставе",
+      "разгибает указательный палец",
+      "пронирует предплечье и кисть"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какую функцию выполняет m. abductor pollicis brevis?",
+    "options": [
+      "отводит большой палец",
+      "приводит большой палец",
+      "противопоставляет большой палец",
+      "разгибает большой палец"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относится mm. lumbricales?",
+    "options": [
+      "средняя группа мышц кисти",
+      "передняя группа мышц плеча",
+      "задняя группа мышц предплечья",
+      "мышцы плечевого пояса"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относится m. palmaris brevis?",
+    "options": [
+      "мышцы возвышения мизинца",
+      "передняя группа мышц плеча",
+      "задняя группа мышц предплечья",
+      "мышцы плечевого пояса"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относится m. opponens digiti minimi?",
+    "options": [
+      "мышцы возвышения мизинца",
+      "передняя группа мышц плеча",
+      "задняя группа мышц предплечья",
+      "мышцы плечевого пояса"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относятся m. opponens pollicis?",
+    "options": [
+      "мышцы возвышения большого пальца",
+      "передняя группа мышц плеча",
+      "задняя группа мышц предплечья",
+      "мышцы плечевого пояса"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относится m. flexor pollicis brevis?",
+    "options": [
+      "мышцы возвышения большого пальца",
+      "передняя группа мышц предплечья",
+      "задняя группа мышц предплечья",
+      "мышцы плечевого пояса"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относится m. extensor indicis?",
+    "options": [
+      "глубокие мышцы задней группы предплечья",
+      "поверхностные мышцы передней группы предплечья",
+      "мышцы возвышения большого пальца",
+      "средняя группа мышц кисти"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относится m. supinator?",
+    "options": [
+      "глубокие мышцы задней группы предплечья",
+      "поверхностные мышцы передней группы предплечья",
+      "мышцы возвышения большого пальца",
+      "средняя группа мышц кисти"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относится m. extensor digiti minimi?",
+    "options": [
+      "поверхностные мышцы задней группы предплечья",
+      "глубокие мышцы передней группы предплечья",
+      "мышцы возвышения большого пальца",
+      "средняя группа мышц кисти"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие мышцы прикрепляются к большому бугорку плечевой кости?",
+    "options": [
+      "m. supraspinatus, m. infraspinatus, m. teres minor",
+      "m. teres major, m. anconeus, m. pronator teres",
+      "m. subscapularis, m. brachialis, m. biceps brachii",
+      "m. deltoideus, m. subscapularis, m. coracobrachialis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относится m. extensor digitorum?",
+    "options": [
+      "поверхностные мышцы задней группы предплечья",
+      "глубокие мышцы передней группы предплечья",
+      "мышцы возвышения большого пальца",
+      "средняя группа мышц кисти"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относится m. pronator quadratus?",
+    "options": [
+      "глубокие мышцы передней группы предплечья",
+      "поверхностные мышцы задней группы предплечья",
+      "мышцы возвышения мизинца",
+      "средняя группа мышц кисти"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относится m. flexor digitorum profundus?",
+    "options": [
+      "глубокие мышцы передней группы предплечья",
+      "поверхностные мышцы задней группы предплечья",
+      "мышцы возвышения мизинца",
+      "средняя группа мышц кисти"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относится m. palmaris longus?",
+    "options": [
+      "поверхностные мышцы передней группы предплечья",
+      "глубокие мышцы задней группы предплечья",
+      "мышцы возвышения мизинца",
+      "средняя группа мышц кисти"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относится m. pronator teres?",
+    "options": [
+      "поверхностные мышцы передней группы предплечья",
+      "глубокие мышцы задней группы предплечья",
+      "мышцы возвышения мизинца",
+      "средняя группа мышц кисти"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относится m. anconeus?",
+    "options": [
+      "задняя группа мышц плеча",
+      "передняя группа мышц плеча",
+      "мышцы возвышения мизинца",
+      "мышцы плечевого пояса"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относится m. triceps brachii?",
+    "options": [
+      "задняя группа мышц плеча",
+      "передняя группа мышц плеча",
+      "мышцы возвышения мизинца",
+      "мышцы плечевого пояса"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относится m. brachialis?",
+    "options": [
+      "передняя группа мышц плеча",
+      "задняя группа мышц плеча",
+      "мышцы возвышения мизинца",
+      "мышцы плечевого пояса"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относится m. deltoideus?",
+    "options": [
+      "мышцы плечевого пояса",
+      "задняя группа мышц плеча",
+      "мышцы возвышения мизинца",
+      "передняя группа мышц предплечья"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относится m. supraspinatus?",
+    "options": [
+      "мышцы плечевого пояса",
+      "задняя группа мышц плеча",
+      "мышцы возвышения мизинца",
+      "передняя группа мышц предплечья"
+    ],
+    "answer": 0
+  }
+]

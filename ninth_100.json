@@ -1,0 +1,512 @@
+[
+  {
+    "question": "Какая околоносовая пазуха открывается непосредственно в верхний носовой ход?",
+    "options": [
+      "sinus sphenoidalis",
+      "sinus maxillaris",
+      "cellulae ethmoidales anteriores",
+      "canalis incisivus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие структуры участвуют в образовании латеральной стенки глазницы?",
+    "options": [
+      "os zygomaticum, alae majores ossis sphenoidalis",
+      "alae majores ossis sphenoidalis, os temporalis",
+      "os temporalis, alae minores ossis sphenoidalis",
+      "os zygomaticum, os parietale"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Посредством чего ротовая полость сообщается с нижним носовым ходом?",
+    "options": [
+      "canalis incisivus",
+      "choanae",
+      "canalis facialis",
+      "fissure orbitalis superior"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какое образование открывается в средний носовой ход?",
+    "options": [
+      "sinus maxillaris",
+      "cellulae ethmoidalis posterioris",
+      "canalis incisivus",
+      "sinus sphenoidalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Куда открывается лобная пазуха?",
+    "options": [
+      "meatus nasi medius",
+      "meatus nasi superior",
+      "meatus nasi inferior",
+      "meatus nasi communis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Куда открывается Гайморова пазуха?",
+    "options": [
+      "meatus nasi medius",
+      "meatus nasi superior",
+      "meatus nasi inferior",
+      "meatus nasi communis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что участвует в образовании срединного нёбного шова со стороны полости носа?",
+    "options": [
+      "crista nasalis",
+      "fissura orbitalis inferior",
+      "canalis infratemporalis",
+      "canalis pterygoideus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какого анатомического образования не имеет подъязычная кость?",
+    "options": [
+      "collum",
+      "corpus",
+      "cornua majora",
+      "cornua minora"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая кость участвует в образовании подвисочной ямки?",
+    "options": [
+      "os temporale",
+      "os occipitale",
+      "os parietale",
+      "os hyoideum"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какое отверстие открывается в среднюю черепную ямку?",
+    "options": [
+      "foramen lacerum",
+      "foramen caecum",
+      "foramen magnum",
+      "foramen jugulare"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая кость участвует в образовании передней черепной ямки?",
+    "options": [
+      "os sphenoidale",
+      "os temporale",
+      "os hyoideum",
+      "os occipitale"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Чем ограничена костная полость носа спереди?",
+    "options": [
+      "apertura piriformis nasi",
+      "choana",
+      "aperturа nasalis posterior",
+      "foramen ovale"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Чем ограничена костная полость носа сзади?",
+    "options": [
+      "choana",
+      "apertura piriformis nasi",
+      "foramen spinosum",
+      "foramen ovale"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие кости участвуют в образовании перегородки носа?",
+    "options": [
+      "vomer, os ethmoidale",
+      "os nasale, concha nasalis inferior",
+      "os palatinum, os lacrimale",
+      "maxilla, mandibula"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какой ямки имеются на латеральной поверхности черепа?",
+    "options": [
+      "fossa temporalis, infratemporalis, pterygopalatina",
+      "fossa canina,condylaris,cerebralis",
+      "fossa cerebellaris, subarcuata,digastrica",
+      "fossa trochlearis,submandibularis, sublingualis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какое отверстие открывается на наружное основание черепа?",
+    "options": [
+      "foramen jugulare",
+      "foramen rotundum",
+      "fissura orbitalis superior",
+      "foramen parietale"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какой канал открывается на наружное основание черепа?",
+    "options": [
+      "canalis pterygoideus",
+      "canalis opticus",
+      "canalis infraorbitalis",
+      "canalis incisivus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие структуры выделяют на внутреннем основании черепа?",
+    "options": [
+      "переднюю, среднюю и заднюю черепные ямки",
+      "переднюю, среднюю и заднюю части",
+      "латеральную и медиальную ямки",
+      "переднюю и верхнюю пазухи"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что расположено на передней поверхности верхней челюсти?",
+    "options": [
+      "foramen infraorbitale",
+      "tuber maxillae",
+      "canalis supraorbitalis",
+      "fossa digastrica"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что характерно для передней черепной ямки?",
+    "options": [
+      "не имеет прямых выходов на наружное основание черепа",
+      "имеет прямые выходы на наружное основание черепа",
+      "соединяется с позвоночным каналом посредством foramen magnum",
+      "не имеет соединений с глазницей и полостью носа"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где расположено слепое отверстие?",
+    "options": [
+      "fossa cranii anterior",
+      "fossa cranii media",
+      "fossa pterygopalatina",
+      "fossa infratemporalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что проходит через foramen caecum?",
+    "options": [
+      "эмиссарная вена, соединяющая верхний сагиттальный синус с венами полости носа",
+      "эмиссарная артерия, соединяющая верхний сагиттальный синус с основанием черепа",
+      "надглазничный нерв, выходящий на переднюю поверхность черепа",
+      "обонятельный нерв"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что находится в центре средней черепной ямки?",
+    "options": [
+      "sella turcica",
+      "foramen magnum",
+      "canalis opticus",
+      "foramen jugulare"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Укажите выпуклости свода черепа",
+    "options": [
+      "tubera frontalia, tubera parietalia, occiput",
+      "arcus zygomaticus, protuberancia occipitalis interna",
+      "protuberancia occipitalis interna, tubera frontalia, tubera parietalia",
+      "tubera maxillia, protuberancia occipitalis externa, tubera parietalia"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "На какой кости можно увидеть следы метопического шва?",
+    "options": [
+      "os frontale",
+      "os temporale",
+      "mandibula",
+      "maxilla"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Между какими костями образуется foramen lacerum?",
+    "options": [
+      "височная, клиновидная и затылочная кости",
+      "височная и затылочная кости",
+      "большие и малые крылья клиновидной кости",
+      "частями затылочной кости"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Между какими костями образуется foramen jugulare?",
+    "options": [
+      "височная и затылочная кости",
+      "височная, клиновидная и затылочная кости",
+      "большие и малые крылья клиновидной кости",
+      "телом верхней челюсти и большим крылом клиновидной кости"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "С чем сообщается передняя черепная ямка?",
+    "options": [
+      "orbita",
+      "basis cranii externa",
+      "canalis vertrbralis",
+      "fossa temporalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "С чем сообщается средняя черепная ямка?",
+    "options": [
+      "fossa pterygopalatina",
+      "cavitas nasalis",
+      "cavitas oris",
+      "canalis vertebralis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Каких образований расположено на теле верхней челюсти?",
+    "options": [
+      "fossa canina",
+      "arcus alveolaris",
+      "alveoli dentales",
+      "septa interradicularia"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Чем ограничена височная ямка сверху?",
+    "options": [
+      "linea temporalis superior",
+      "arcus zygomaticus",
+      "tuber maxillae",
+      "processus frontalis ossis zygomatici"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие образования относятся к нижней челюсти?",
+    "options": [
+      "processus coronoideus, processus condylaris",
+      "linea temporalis superior, processus mastoideus",
+      "arcus zygomaticus, eminentia cruciformis",
+      "fossa canina, glabella"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что располагается в fossa temporalis?",
+    "options": [
+      "височная мышца, скуловой нерв",
+      "вегетативный крыловидно-небный узел",
+      "верхнечелюстная артерия и ее ветви",
+      "нижнечелюстной нерв и его ветви"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что находится между отростками нижней челюсти?",
+    "options": [
+      "incisura mandibulae",
+      "ramus mandibulae",
+      "tuberculum mentale",
+      "processus styloideus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какое отверстие находится на медиальной поверхности ветви нижней челюсти?",
+    "options": [
+      "foramen mandibulae",
+      "foramen rotundum",
+      "foramen ovale",
+      "foramen spinosum"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что располагается в fossa infratemporalis?",
+    "options": [
+      "медиальная и латеральная крыловидные мышцы",
+      "вегетативный крыловидно-нёбный узел",
+      "ветви поверхностной височной артерии",
+      "височная фасция, жировая клетчатка"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Через какое анатомическое образование подвисочная ямка сообщается с глазницей?",
+    "options": [
+      "fissura orbitalis inferior",
+      "fissura pterygomaxillaris",
+      "canalis pterygoideus",
+      "canalis opticus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "С какой костью сочленяется нижняя челюсть?",
+    "options": [
+      "os temporale",
+      "os frontale",
+      "os parietale",
+      "maxilla"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Чем оканчивается мыщелковый отросток нижней челюсти?",
+    "options": [
+      "caput mandibulae",
+      "trochanter major",
+      "eminentia intercondylaris",
+      "sella turcica"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие кости черепа соединяет sutura lambdoidea?",
+    "options": [
+      "теменные кости с затылочной костью",
+      "теменные кости с лобной костью",
+      "височные кости с затылочной костью",
+      "клиновидную и лобную кости"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько отростков имеет нёбная кость?",
+    "options": [
+      "4",
+      "5",
+      "1",
+      "7"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько родничков различают у новорожденных?",
+    "options": [
+      "6",
+      "4",
+      "3",
+      "2"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько непарных родничков различают у новорожденных?",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "1"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая из перечисленных костей участвует в образовании медиальной стенки глазницы?",
+    "options": [
+      "os lacrimale",
+      "os nasale",
+      "os hyoideum",
+      "mandibulla"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "С чем сообщается глазница через canalis infraorbitalis?",
+    "options": [
+      "с поверхностью лица",
+      "со средней черепной ямкой",
+      "с крыловидно-нёбной ямкой",
+      "с наружным основанием черепа"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "С чем сообщается глазница через canalis nasolacrimalis?",
+    "options": [
+      "с полостью носа",
+      "с наружным основанием черепа",
+      "с поверхностью лица",
+      "с теменной ямкой"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где располагается foramen jugulare?",
+    "options": [
+      "между височной и затылочной костями",
+      "между затылочной и теменными костями",
+      "в затылочных мыщелках",
+      "на дне передней черепной ямки"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Укажите анатомическую структуру, расположенную в передней черепной ямке?",
+    "options": [
+      "crista galli",
+      "dorsum sellae",
+      "sulcus sinus petrosa superioris",
+      "clivus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "На стыке каких костей располагается foramen lacerum?",
+    "options": [
+      "клиновидной, височной и затылочной",
+      "лобной, височной и затылочной",
+      "теменной, височной и затылочной",
+      "решётчатой, височной и затылочной"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Укажите анатомическую структуру, расположенную в средней черепной ямке?",
+    "options": [
+      "sulcus caroticus",
+      "clivus",
+      "crista occipitalis interna",
+      "glabella"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие кости образуют дно средней черепной ямки?",
+    "options": [
+      "os sphenoidale et os temporale",
+      "os frontale et os parietale",
+      "os occipitale et os temporale",
+      "maxilla et os sphenoidale"
+    ],
+    "answer": 0
+  }
+]

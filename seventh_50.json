@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Из скольких костей состоит череп?",
+    "options": [
+      "23",
+      "8",
+      "15",
+      "20"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где располагается glabella?",
+    "options": [
+      "между надбровными дугами",
+      "на надглазничном края",
+      "на внутренней поверхности лобной кости",
+      "между двумя глазничными частями"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "На какой кости располагаются tuberculum pharyngeum?",
+    "options": [
+      "os occipitale",
+      "os ethmoidale",
+      "os frontale",
+      "os parietale"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Во что продолжается margo supraorbitalis латерально?",
+    "options": [
+      "processus zygomaticus",
+      "spina nasalis",
+      "tuber frontale",
+      "spina trochlearis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "При помощи какого анатомического образования лобная кость соединяется со скуловой?",
+    "options": [
+      "processus zygomaticus",
+      "spina nasalis",
+      "tuber frontale",
+      "spina trochlearis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая поверхность лобной кости располагается под linea temporalis?",
+    "options": [
+      "facies temporalis",
+      "facies externa",
+      "facies orbitalis",
+      "facies cerebralis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько вырезок находится на margo supraorbitalis лобной кости?",
+    "options": [
+      "2",
+      "3",
+      "5",
+      "0"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "В образовании какой ямки участвует facies temporalis лобной кости?",
+    "options": [
+      "fossa temporalis",
+      "aperture periformis",
+      "fossa cerebellaris",
+      "foramen lacerum"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Куда обращена facies interna squamae frontalis?",
+    "options": [
+      "в полость черепа",
+      "в область подвисочной ямки",
+      "в полость глазницы",
+      "в крыло-нёбную ямку"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что располагается на facies interna squamae frontalis?",
+    "options": [
+      "crista frontalis",
+      "tuber frontalis",
+      "spina nasalis",
+      "fovea trochlearis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где располагается sulcus sinus sagittalis superior?",
+    "options": [
+      "на facies interna squamae frontalis",
+      "на facies externa squamae occipitalis",
+      "на facies orbitalis ossis ethmoidalis",
+      "на facies externa ossis temporalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "На внутренней поверхности каких костей черепа имеется sulcus sinus sagittalis superior?",
+    "options": [
+      "os frontale, os parietale, os occipitale",
+      "os perietale, os temporale, os sphenoidale",
+      "os nasalis, os lacrimalis, os palatinum",
+      "os ethmoidale, os zygomaticus, os frontale"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "В чем заключается опорная функция черепа?",
+    "options": [
+      "к костям черепа прикрепляются мимические и жевательные мышцы",
+      "является начальным отделом пищеварительной системы",
+      "образует костные вместилища для головного мозга и органов чувств",
+      "образует костную основу лица"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где находится foramen caecum?",
+    "options": [
+      "кзади от crista frontalis",
+      "на margo supraorbitalis",
+      "на ala major ossis sphenoidalis",
+      "по бокам sulcus sinus sagittalis superior"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая часть лобной кости участвует в образовании верхней стенки глазницы?",
+    "options": [
+      "partes orbitales ossis frontalis",
+      "facies interna squamae frontalis",
+      "facies externa squamae frontalis",
+      "pers nasalis ossis frontalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что располагается с латеральной стороны facies orbitalis лобной кости?",
+    "options": [
+      "fossa glandulae lacrimalis",
+      "fovea trochlearis",
+      "impressions digitatae",
+      "sulci arteriosi"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где располагается fovea trochlearis лобной кости?",
+    "options": [
+      "с медиальной стороны facies orbitalis ossis frontalis",
+      "на внутренней поверхности pars orbitalis ossis frontalis",
+      "на pars basilaris ossis occipitalis",
+      "на labyrinthus ethmoidalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая часть лобной кости располагается между двумя глазничными частями?",
+    "options": [
+      "pars nasalis ossis frontalis",
+      "squama ossis frontalis",
+      "lamina perpendicularis ossis ethmoidalis",
+      "pars basilaris ossis occipitalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "С какими костями соединяется pars nasalis ossis frontalis?",
+    "options": [
+      "os nasalis, maxilla",
+      "os parietale, os occipitale",
+      "os lacrimalis, os palatinum",
+      "os ethmoidale, os zygomaticus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где располагается incisura ethmoidalis ossis frontalis?",
+    "options": [
+      "между глазничными частями лобной кости",
+      "между чешуёй и латеральными частями затылочной кости",
+      "между барабанной и каменистой частями височной кости",
+      "между двумя теменными костями"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что заполняет incisura ethmoidalis ossis frontalis на целом черепе?",
+    "options": [
+      "решетчатая пластинкой решетчатой кости",
+      "турецкое седло",
+      "слёзная железа",
+      "горизонтальная пластинка нёбной кости"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что находится в толще squama frontalis?",
+    "options": [
+      "sinus frontalis",
+      "sinus maxillaris",
+      "cellulae ethmoidalis",
+      "cavitas tympani"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "При помощи чего лобная пазуха делится на две половины?",
+    "options": [
+      "septum sinuum frontalium",
+      "spina nasalis",
+      "lamina cribrosa",
+      "spina mentalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько костей участвуют в образовании мозгового черепа?",
+    "options": [
+      "8",
+      "6",
+      "4",
+      "15"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Укажите латинское название теменной кости.",
+    "options": [
+      "os parietale",
+      "os temporale",
+      "os zygomaticum",
+      "os lacrimale"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе костей относится os parietale?",
+    "options": [
+      "к плоским",
+      "к смешанным",
+      "к губчатым",
+      "к сесамовидным"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько углов различают в теменной кости?",
+    "options": [
+      "4",
+      "5",
+      "3",
+      "2"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько краёв различают в теменной кости?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Каким краем теменная кость соединяется с лобной?",
+    "options": [
+      "margo frontalis",
+      "margo sagittalis",
+      "margo squamosus",
+      "margo occipitalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Каким краем теменная кость соединяется с одноименной костью противоположной стороны?",
+    "options": [
+      "margo sagittalis",
+      "margo frontalis",
+      "margo squamosus",
+      "margo occipitalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "С какой костью соединяется теменная кость при помощи margo squamosus?",
+    "options": [
+      "os temporale",
+      "os parietale",
+      "os frontale",
+      "os occipitae"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "С какой костью соединяется теменная кость при помощи затылочного края?",
+    "options": [
+      "os occipitale",
+      "os temporale",
+      "os parietale",
+      "os frontale"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какой угол теменной кости находится в месте соединения двух теменных и лобной костей?",
+    "options": [
+      "angulus frontalis",
+      "angulus sphenoidalis",
+      "angulus mastoideus",
+      "angulus occipitalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где располагается клиновидный угол теменной кости в целом черепе?",
+    "options": [
+      "между лобной костью и большим крылом клиновидной кости",
+      "в точке соединения двух теменных и лобной костей",
+      "между теменной, височной и затылочной костями",
+      "в точке соединения двух теменных и затылочной костей"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите отделы мозгового черепа",
+    "options": [
+      "calvaria (fornix), basis cranii",
+      "cranium cerebrale, cranium viscerale",
+      "basis cranii externus, basis cranii internus",
+      "fossa cerebralis anterior, fossa cerebralis posterior"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где располагается angulus occipitalis ossis parietalis в целом черепе?",
+    "options": [
+      "в точке соединения двух теменных и затылочной костей",
+      "между теменной, височной и затылочной костями",
+      "в точке соединения двух теменных и лобной костей",
+      "между лобной костью и большим крылом клиновидной кости"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Как называется задне-верхний угол теменной кости?",
+    "options": [
+      "angulus occipitalis",
+      "angulus frontalis",
+      "angulus sphenoidalis",
+      "angulus mastoideus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где располагается angulus mastoideus ossis petietalis в целом черепе?",
+    "options": [
+      "между теменной, височной и затылочной костями",
+      "в точке соединения двух теменных и лобной костей",
+      "между лобной костью и большим крылом клиновидной кости",
+      "в точке соединения двух теменных и затылочной костей"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где располагается tuber parietale?",
+    "options": [
+      "на наружной поверхности теменной кости",
+      "на внутренней поверхности теменной кости",
+      "на глазничной поверхности решетчатой кости",
+      "на мозговой поверхности лобной кости"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где расположены lineae temporalis superior et inferior?",
+    "options": [
+      "на facies externa ossis parietalis",
+      "на facies internaossis parietalis",
+      "на squama ossis frontalis",
+      "на pars basilaris ossis occipitalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Вдоль какого края теменной кости проходит sulcus sinus sagittalis superioris?",
+    "options": [
+      "margo sagittalis",
+      "margo squamosus",
+      "margo frontalis",
+      "margo occipitalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что располагается в области angulus mastoideus ossis parietalis ?",
+    "options": [
+      "sulcus sinus sigmoidei",
+      "sulcus sinus transversi",
+      "sulcus sinus petrosus superioris",
+      "sulcus sinus sagittalis superiores"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что проходит вдоль margo sagittalis ossis parietalis ?",
+    "options": [
+      "sulcus sinus sagittalis superioris",
+      "sulcus sinus sigmoidei, sulcus sinus transversi",
+      "sulcus sinus petrosus superioris, sulcus sinus petrosus inferioris",
+      "sulcus sinus sagittalis inferioris"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "На каких костях рпроходит sulcus sinus sigmoidei?",
+    "options": [
+      "os temporale, os occipitale",
+      "os sphenoidale, os temporale",
+      "os frontale, os ethmoidale",
+      "os occipitale, os palatinum"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что располагается на внутренней поверхности теменной кости вдоль sulcus sinus sagittalis superioris?",
+    "options": [
+      "foveolae granulares",
+      "lineae temporalis superior et inferior",
+      "sulci arteriosi",
+      "tuber parietale"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие кости участвуют в образовании свода черепа?",
+    "options": [
+      "os parietale, os frontale",
+      "os nasalis, os hyoideum",
+      "os lacrimalis, os temporale",
+      "os palatinum, os ethmoidale"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "В образовании каких анатомических структур участвует затылочная кость?",
+    "options": [
+      "задние отделы свода и основания черепа",
+      "глазница и наружное основание черепа",
+      "височная и подвисочная ямки",
+      "костная полость носа и передняя черепная ямка"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько частей различают в затылочной кости?",
+    "options": [
+      "4",
+      "2",
+      "5",
+      "6"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите парную часть os occipitale.",
+    "options": [
+      "pars lateralis",
+      "pars basilaris",
+      "squama occipitalis",
+      "foramen magnum"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какое отверстие находится на os occipitale?",
+    "options": [
+      "foramen magnum",
+      "foramen caecum",
+      "foramen jugulare",
+      "foramen lacerum"
+    ],
+    "answer": 0
+  }
+]

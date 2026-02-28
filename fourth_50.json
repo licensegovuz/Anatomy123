@@ -1,0 +1,502 @@
+[
+  {
+    "question": "В чем заключается анатомическая особенность мышц лица?",
+    "options": [
+      "прикрепляются к коже",
+      "имеют двойное прикрепление к костям",
+      "расположены глубоко",
+      "покрыты фасциями"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая мышца относится к мышцам окружности глаза?",
+    "options": [
+      "m. corrugator supercilii",
+      "m. orbicularis oris",
+      "m. temporoparietalis",
+      "m. nasalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К каким мышцам относится m. longus capitis?",
+    "options": [
+      "глубокие мышцы шеи",
+      "поверхностные мышцы шеи",
+      "мышцы шеи",
+      "жевательные мышцы"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К каким мышцам относится m. longus colli?",
+    "options": [
+      "глубокие мышцы шеи",
+      "поверхностные мышцы шеи",
+      "средние мышцы шеи",
+      "жевательные мышцы"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите части круговой мышцы глаза",
+    "options": [
+      "partes palpebralis, orbitalis, lacrimalis",
+      "partes transversa, alaris",
+      "partes marginalis, labialis",
+      "partes superficialis, mediana, profunda"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько частей имеет m. orbicularis oculi",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "5"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая мышца смыкает веки?",
+    "options": [
+      "pars palpebralis m. orbicularis oculi",
+      "venter occipitalis m. occipitofrontalis",
+      "pars marginalis m. orbicularis oris",
+      "pars transversa m. nasalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько частей имеет m. nasalis?",
+    "options": [
+      "2",
+      "3",
+      "1",
+      "5"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите части m. nasalis",
+    "options": [
+      "pars transversa, alaris",
+      "pars palpebralis, orbitalis",
+      "pars marginalis, labialis",
+      "pars superficialis, profunda"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите функцию pars alaris m. nasalis",
+    "options": [
+      "расширяет ноздри",
+      "суживает ноздри",
+      "опускает носовую перегородку",
+      "тянет бровь книзу"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где берет начало m. levator labii superioris et alaeque nasi?",
+    "options": [
+      "processus frontalis ossis maxillae",
+      "fossa canina ossis maxillae",
+      "corpus ossis zygomatici",
+      "arcus zygomaticus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где расположена m. procerus?",
+    "options": [
+      "в области надпереносья",
+      "в области скуловой дуги",
+      "латерально от ротовой щели",
+      "спереди от ушной раковины"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Из скольких частей состоит m. orbicularis oris?",
+    "options": [
+      "2",
+      "3",
+      "1",
+      "5"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где расположены мимические мышцы?",
+    "options": [
+      "поверхностно, вокруг естественных отверстий лица",
+      "глубоко под кожей, не имея прикрепления к ней",
+      "в области подвисочной ямки",
+      "в области шеи"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите части m. orbicularis oris",
+    "options": [
+      "pars marginalis et labialis",
+      "pars palpebralis et orbitalis",
+      "pars transversa et alaris",
+      "pars superficialis et profunda"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где расположена pars labialis m. orbicularis oris?",
+    "options": [
+      "в толще губ",
+      "в области надпереносья",
+      "в области скуловой дуги",
+      "латерально от ротовой щели"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какую функцию выполняет m. orbicularis oris?",
+    "options": [
+      "является сфинктером ротовой полости",
+      "является дилататором ротовой полости",
+      "опускает носовую перегородку",
+      "суживает глазную щель"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "При сокращении какой мышцы губы вытягиваются вперед, как при свисте?",
+    "options": [
+      "pars marginalis m. orbicularis oris",
+      "pars alaris m. nasalis",
+      "m. levator labii superioris",
+      "m. depressor anguli oris"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая из перечисленных мышц опускает угол рта?",
+    "options": [
+      "m. depressor anguli oris",
+      "m. levator labii superioris",
+      "m. zygomaticus major",
+      "m. risorius"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где начинается m. zygomaticus minor?",
+    "options": [
+      "тело скуловой кости",
+      "резцовая ямка верхней челюсти",
+      "угол нижней челюсти",
+      "височная ямка"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Укажите функции m. zygomaticus major",
+    "options": [
+      "тянет угол рта вверх",
+      "опускает край брови вниз",
+      "зажмуривает глаза",
+      "напрягает кожу подбородка"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая мышца начинается от косой линии нижней челюсти?",
+    "options": [
+      "m. depressor labii inferioris",
+      "m. mentalis",
+      "m. buccinator",
+      "m. risorius"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая мышца относится к мышцам окружности рта?",
+    "options": [
+      "m. zygomaticus major",
+      "m. depressor septi nasi",
+      "m. corrugator supercilii",
+      "m. pterygoideus medialis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая мышца прижимает щеку к дёснам и зубам во время жевания, предохраняет слизистую оболочку щеки от прикусывания?",
+    "options": [
+      "m. buccinator",
+      "m. risorius",
+      "m. procerus",
+      "m. mentalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите мышцу свода черепа",
+    "options": [
+      "m. epicranius",
+      "m. procerus",
+      "m. risorius",
+      "m. buccinator"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая мышца особенно активна при игре на духовых инструментах?",
+    "options": [
+      "m. buccinator",
+      "m. risorius",
+      "m. procerus",
+      "m. mentalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие мышцы относятся к группе жевательных мышц?",
+    "options": [
+      "m. masseter, m. temporalis",
+      "m. buccinator, m. risorius",
+      "m. procerus, m. mentalis",
+      "m. nasalis, platysma"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой части нижней челюсти прикрепляется m. masseter?",
+    "options": [
+      "tuberositas masseterica",
+      "tuberositas pterygoidea",
+      "processus coronoideus",
+      "fovea pterygoidea"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какую функцию выполняет m. masseter?",
+    "options": [
+      "поднимает нижнюю челюсть, смыкая зубы",
+      "выдвигает нижнюю челюсть вперёд",
+      "обеспечивает боковые движения нижней челюсти",
+      "задвигает нижнюю челюсть назад"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где начинается m. temporalis?",
+    "options": [
+      "от поверхности височной ямки",
+      "от бугра верхней челюсти",
+      "от крыловидного отростка клиновидной кости",
+      "от шиловидного отростка височной кости"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите части m. pterygoideus medialis",
+    "options": [
+      "caput superficialis et caput profundus",
+      "caput superius et caput inferius",
+      "pаrs medialis et pars lateralis",
+      "venter anterior et venter posterior"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите части m. pterygoideus lateralis",
+    "options": [
+      "caput superius et caput inferius",
+      "caput superficialis et caput profundus",
+      "pаrs medialis et pars lateralis",
+      "venter anterior et venter posterior"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какому анатомическому образованию прикрепляется латеральная крыловидная мышца?",
+    "options": [
+      "fovea pterygoidea",
+      "tuberositas pterygoidea",
+      "processus coronoideus",
+      "tuberositas masseterica"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какому анатомическому образованию прикрепляется медиальная крыловидная мышца?",
+    "options": [
+      "tuberositas pterygoidea",
+      "tuberositas masseterica",
+      "processus coronoideus",
+      "fovea pterygoidea"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какую функцию выполняют мышцы шеи?",
+    "options": [
+      "все перечиленное",
+      "принимают участие в актах глотания",
+      "принимают участие в артикуляции речи",
+      "обеспечивают движения головы, шеи"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Из каких частей состоит m. epicranius?",
+    "options": [
+      "m. occipitofrontalis et m. temporoparietalis",
+      "pars orbitalis et pars lacrimalis",
+      "pars transversa et pars alaris",
+      "m. zygomaticus minor et m. zygomaticus major"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "На какие группы делятся мышцы шеи по топографическому принципу?",
+    "options": [
+      "поверхностные, средние, глубокие",
+      "подзатылочные, боковые, предпозвоночные",
+      "латеральные, медиальные, средние",
+      "надподъязычные, подподъязычные"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая из перечисленных мышц относится к поверхностным мышцам шеи?",
+    "options": [
+      "m. sternocleidomastoideus",
+      "m. trapezius",
+      "m. digastricus",
+      "m.m. omohyoideus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где начинается platysma?",
+    "options": [
+      "от кожи на уровне 2–3 ребер",
+      "верхней части передней поверхности грудины",
+      "от задней поверхности шиловидного отростка",
+      "от косой линии щитовидного хряща"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите функцию platysma",
+    "options": [
+      "натягивает кожу шеи",
+      "поворачивает голову в противоположную сторону",
+      "участвует в акте глотания",
+      "наклоняет голову в свою сторону"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "От каких костей берет начало m. sternocleidomastoideus?",
+    "options": [
+      "грудина, ключица",
+      "верхние 2 ребра",
+      "шейные позвонки",
+      "подъязычная кость, нижняя челюсть"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Куда прикрепляется m. sternocleidomastoideus?",
+    "options": [
+      "сосцевидный отросток височной кости",
+      "угол нижней челюсти",
+      "тело подъязычной кости",
+      "базилярная часть затылочной кости"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какое движение совершает m. sternocleidomastoideus при одностороннем движении?",
+    "options": [
+      "наклоняет голову к плечу, поворачивая лицо в противоположную сторону",
+      "поднимает подъязычную кость, участвуя в акте глотания",
+      "участвует в артикуляции речи",
+      "удерживает голову в вертикальном положении"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько мышц относится к поверхностным мышцам шеи?",
+    "options": [
+      "2",
+      "8",
+      "4",
+      "3"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие мышцы относятся к средней группе мышц шеи?",
+    "options": [
+      "mm. suprahyoidei, mm. infrahyoidei",
+      "mm. suboccipitales, mm. scaleni",
+      "mm. interspinale, mm. subclavicularis",
+      "mm. rotatores longi, mm. rotatores breve"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие мышцы лежат выше подъязычной кости?",
+    "options": [
+      "m. digastricus, m. stylohyoideus",
+      "m. sternothyroideus, m. sternocleidomastoideus",
+      "m. thyrohyoideus,m. buccinator",
+      "m. omohyoideus, m. sternohyoideus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "В образовании какой мышцы участвуют m. occipitofrontalis et m. temporoparietalis?",
+    "options": [
+      "m. epicranius",
+      "m. orbicularis oculi",
+      "m. nasalis",
+      "m. orbicularis oris"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие мышцы лежат ниже подъязычной кости?",
+    "options": [
+      "m. sternohyoideus, m. sternothyroideus",
+      "m. mylohyoideus, m. digastricus",
+      "m. geniohyoideus, m. sternocleidomastoideus",
+      "m. stylohyoideus, m. buccinator"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Укажите части двубрюшной мышцы",
+    "options": [
+      "venter anterior et venter posterior",
+      "venter superior et venter inferior",
+      "pаrs medialis et pars lateralis",
+      "pars superficialis et pars profundus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где начинается шилоподъязычная мышца?",
+    "options": [
+      "processus styloideus ossis temporalis",
+      "incisura mastoidea ossis temporalis",
+      "spina ossis sphenoidalis",
+      "processus pretygoideus ossis sphenoidalis"
+    ],
+    "answer": 0
+  }
+]

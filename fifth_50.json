@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Какие кости образуют пояс верхней конечности?",
+    "options": [
+      "clavicula, scapula",
+      "humerus, femur",
+      "ulna, radius",
+      "os lunatum, os pisiforme"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "С какой костью соединяется ключица посредством facies articularis sternalis?",
+    "options": [
+      "с грудиной",
+      "с акромионом лопатки",
+      "с плечевой костью",
+      "со II грудным позвонком"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите части фаланги пальцев",
+    "options": [
+      "basis, corpus, caput",
+      "caput, collum, corpus",
+      "caput, corpus, cauda",
+      "corpus, processus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе костей относится лопатка?",
+    "options": [
+      "к плоским",
+      "к смешанным",
+      "к сесамовидным",
+      "к трубчатым"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько поверхностей различают на лопатке?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие поверхности различают на лопатке?",
+    "options": [
+      "facies costalis et facies dorsalis",
+      "facies superior et facies inferior",
+      "facies superficialis et facies profunda",
+      "facies medialis et facies lateralis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько углов различают в лопатке?",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "5"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие углы различают на лопатке?",
+    "options": [
+      "angulus superior, angulus inferior et angulus lateralis",
+      "angulus medialis, angulus lateralis et angulus superior",
+      "angulus acromii, angulus intermedius et angulus lateralis",
+      "angulus dexter, angulus sinister et angulus superior"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие отростки различают на лопатке?",
+    "options": [
+      "spina scapulae, acromion et processus coracoideus",
+      "olecranon, processus coronoideus, processus styloideus",
+      "processus spinosus, processus transversus, processus articularis",
+      "olecranon, acromion et processus styloideus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько краёв имеет лопатка?",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие края различают на лопатке?",
+    "options": [
+      "margo medialis, margo lateralis et margo superior",
+      "margo superior, margo inferior et margo lateralis",
+      "margo medius, margo intermedius et margo lateralis",
+      "margo dexter, margo sinister et margo superior"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что образуется при переходе ости лопатки в акромион?",
+    "options": [
+      "angulus acromii",
+      "processus coracoideus",
+      "olecranon",
+      "cavitas glenoidalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе костей относится ключица?",
+    "options": [
+      "к смешанным",
+      "к длинным трубчатым",
+      "к губчатым",
+      "к воздухоносным"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что располагается в области латерального угла лопатки?",
+    "options": [
+      "cavitas glenoidalis",
+      "angulus acromii",
+      "acromion",
+      "olecranon"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Куда обращен медиальный край лопатки?",
+    "options": [
+      "к позвоночному столбу",
+      "к плечевой кости",
+      "к рёбрам",
+      "к ключице"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Куда обращен латеральный край лопатки?",
+    "options": [
+      "к плечевой кости",
+      "к позвоночному столбу",
+      "в сторону грудной клетки",
+      "в сторону брюшной полости"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что расположено на верхнем крае лопатки?",
+    "options": [
+      "incisura scapulae",
+      "cavitas glenoidalis",
+      "angulus acromii",
+      "olecranon"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К каким рёбрам прилегает передняя поверхность лопатки?",
+    "options": [
+      "к II−VII рёбрам",
+      "к I−XII рёбрам",
+      "к X-XII рёбрам",
+      "к I-III рёбрам"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите отделы свободной части верхней конечности?",
+    "options": [
+      "brachium, antebrachium, manus",
+      "femur, crus, pedis",
+      "humerus, radius, ulna",
+      "carpus, tarsus, digiti"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько костей образуют пояс верхней конечности?",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "5"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая кость образует скелет плеча?",
+    "options": [
+      "humerus",
+      "radius",
+      "tibia",
+      "fibula"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что является составной частью кисти?",
+    "options": [
+      "carpus",
+      "metatarsus",
+      "tarsus",
+      "patella"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Укажите части ключицы",
+    "options": [
+      "extremitas sternalis, corpus claviculae, extremitas acromialis",
+      "caput claviculae, collum claviculae, corpus claviculae",
+      "pars medialis, pars media, pars lateralis",
+      "diaphysis claviculae, epiphysis claviculae"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе костей относится плечевая кость?",
+    "options": [
+      "к длинным трубчатым",
+      "к сесамовидным",
+      "к коротким трубчатым",
+      "к плоским"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что располагается на проксимальном эпифизе плечевой кости?",
+    "options": [
+      "caput humeri",
+      "condylus humeri",
+      "capitulum humeri",
+      "trochlea humeri"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "По какой анатомической структуре чаще всего происходят переломы плечевой кости?",
+    "options": [
+      "collum chirurgicum",
+      "collum anatomicum",
+      "corpus humeri",
+      "epicondylus humeri lateralis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что идёт вниз от большого бугорка плечевой кости?",
+    "options": [
+      "crista tuberculi majoris",
+      "crista tuberculi minoris",
+      "crista supraepicondylaris lateralis",
+      "crista supraepicondylaris medialis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что идёт вниз от малого бугорка плечевой кости?",
+    "options": [
+      "crista tuberculi minoris",
+      "crista tuberculi majoris",
+      "crista supraepicondylaris lateralis",
+      "crista supraepicondylaris medialis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что располагается между бугорками и гребнями плечевой кости?",
+    "options": [
+      "sulcus intertubercularis",
+      "collum chirurgicum",
+      "crista supraepicondylaris lateralis",
+      "trochlea humeri"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько поверхностей различают в нижней части тела плечевой кости?",
+    "options": [
+      "3",
+      "1",
+      "5",
+      "2"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что расположено на середине тела плечевой кости?",
+    "options": [
+      "tuberositas deltoidea",
+      "trochlea humeri",
+      "tuberculum majus",
+      "caput humeri"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где проходит sulcus nervi radialis?",
+    "options": [
+      "по задней поверхности тела плечевой кости",
+      "на проксимальном эпифизе плечевой кости",
+      "в области мыщелка плечевой кости",
+      "в области головки плечевой кости"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что находится на дистальном эпифизе плечевой кости?",
+    "options": [
+      "condylus humeri",
+      "caput humeri",
+      "tuberositas deltoidea",
+      "tuberculum minus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Как называются концы ключицы?",
+    "options": [
+      "extremitas sternalis, extremitas acromialis",
+      "extremitas superior, extremitas inferior",
+      "polus dexter, polus sinister",
+      "extremitas dexter, extremitas sinister"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите части condylus humeri",
+    "options": [
+      "trochlea humeri et capitulum humeri",
+      "collum anatomicum et collum chirurgicum",
+      "tuberositas radii et tuberositas ulnae",
+      "epicondylus medialis et epicondylus lateralis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Как с латинского языка переводится capitulum humeri?",
+    "options": [
+      "головка мыщелка плечевой кости",
+      "головка плечевой кости",
+      "надмыщелковый гребень",
+      "межмыщелковое поле"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие анатомические образования находятся на дистальном эпифизе плечевой кости?",
+    "options": [
+      "fossa olecrani, fossa coronoidea, fossa radialis",
+      "fossa supraspinata, fossa infraspinata",
+      "incisura trochlearis, incisura radialis",
+      "fossa capitis femoris, cavitas glenoidalis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что расположено на медиальном надмыщелке плечевой кости?",
+    "options": [
+      "sulcus nervi ulnaris",
+      "sulcus spiralis",
+      "tuberositas deltoidea",
+      "collum anatomicum"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что располагается на границе между головкой и остальной частью плечевой кости?",
+    "options": [
+      "collum anatomicum",
+      "fossa olecrani",
+      "sulcus spiralis",
+      "capitulum humeri"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "В какую ямку плечевой кости входит локтевой отросток при разгибании предплечья?",
+    "options": [
+      "fossa olecrani",
+      "fossa coronoidea",
+      "fossa radialis",
+      "fossa subscapularis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "В какую ямку плечевой кости заходит венечный отросток локтевой кости при сгибании в локтевом суставе?",
+    "options": [
+      "fossa coronoidea",
+      "fossa olecrani",
+      "fossa radialis",
+      "fossa infraspinata"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "В какую ямку плечевой кости заходит головка лучевой кости при полном сгибании в локтевом суставе?",
+    "options": [
+      "fossa radialis",
+      "fossa supraspinata",
+      "fossa olecrani",
+      "fossa coronoidea"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе костей относится локтевая кость?",
+    "options": [
+      "к длинным трубчатым",
+      "к губчатым",
+      "к коротким трубчатым",
+      "к плоским"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите составные части локтевой кости",
+    "options": [
+      "тело, проксимальный эпифиз, дистальный эпифиз",
+      "головка, тело, хвост",
+      "передняя часть, задняя часть",
+      "основание, тело, головка"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где располагается impression ligament costoclavicularis?",
+    "options": [
+      "на extremitas sternalis",
+      "на caput costae",
+      "на extremitas acromialis",
+      "на corpus sterni"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что располагается на проксимальном эпифизе локтевой кости?",
+    "options": [
+      "incisura trochlearis",
+      "caput ulnae",
+      "processus styloideus",
+      "circumferentia articularis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где располагается olecranon?",
+    "options": [
+      "на проксимальном эпифизе локтевой кости",
+      "на средней фаланге пальцев",
+      "на наружной поверхности лопатки",
+      "на дистальном эпифизе лучевой кости"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какое анатомическое образование располагается на дистальном эпифизе локтевой кости?",
+    "options": [
+      "processus styloideus",
+      "processus coronoideus",
+      "tuberositas ulnae",
+      "incisura radialis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где расположена суставная поверхность для соединения локтевой кости с головкой лучевой кости?",
+    "options": [
+      "incisura radialis",
+      "processus styloideus",
+      "circumferential articularis ulnae",
+      "incisura trochlearis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что располагается ниже венечного отростка локтевой кости?",
+    "options": [
+      "tuberositas ulnae",
+      "processus styloideus",
+      "incisura trochlearis",
+      "caput ulnae"
+    ],
+    "answer": 0
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Какая мышца относится к мышцам бедра?",
+    "options": [
+      "m. sartorius",
+      "m. iliopsoas",
+      "m. piriformis",
+      "m. gemellus superior"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Куда прикрепляется m. piriformis?",
+    "options": [
+      "к trochanter major",
+      "к trochanter minor",
+      "к linea pectinea",
+      "к tuberositas glutea"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относится m. gastrocnemius?",
+    "options": [
+      "задняя группа мышц голени",
+      "передняя группа мышц бедра",
+      "медиальная группа мышц бедра",
+      "латеральная группа мышц голени"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Через какое отверстие грушевидная мышца выходит на ягодичную область?",
+    "options": [
+      "foramen ischiadicum major",
+      "foramen obturatum",
+      "foramen mentale",
+      "foramen magnum"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где начинается m. obturatorius internus?",
+    "options": [
+      "от внутренней поверхности запирательного отверстия",
+      "от наружной поверхности запирательного отверстия",
+      "от латерального гребня крестца",
+      "от малого вертела бедренной кости"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где начинается m. obturatorius externus?",
+    "options": [
+      "от наружной поверхности запирательного отверстия",
+      "от внутренней поверхности запирательного отверстия",
+      "от латерального гребня крестца",
+      "от малого вертела бедренной кости"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие из перечисленных мышц таза ротируют кнаружи и отводят бедро?",
+    "options": [
+      "m. piriformis, m. obturatorius internus",
+      "m. gluteus minimus, m. quadratus femoris",
+      "m. gluteus minimus, m. tensor fasciae latae",
+      "m. psoas major, m. psoas minor"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие из перечисленных мышц прикрепляются к большому вертелу бедренной кости?",
+    "options": [
+      "m. gemellus superior, m. gemellus inferior",
+      "m. psoas major, m. psoas minor",
+      "m. gluteus maximus, m. tensor fasciae latae",
+      "m. quadratus femoris, m. iliacus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Через какое отверстие внутренняя запирательная мышца выходит на ягодичную область?",
+    "options": [
+      "foramen ischiadicum minor",
+      "foramen obturatum",
+      "foramen mentale",
+      "foramen magnum"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где начинается m. gemellus superior?",
+    "options": [
+      "spina ischiadica",
+      "spina iliaca posterior inferior",
+      "tuberculum iliacum",
+      "linea arcuata"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где начинается m. gemellus inferior?",
+    "options": [
+      "tuber ischiadicum",
+      "spina iliaca posterior inferior",
+      "tuberculum iliacum",
+      "linea arcuata"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Куда прикрепляются верхняя и нижняя близнецовые мышцы?",
+    "options": [
+      "к fossa trochanterica",
+      "к trochanter major",
+      "к linea pectinea",
+      "к tuberositas glutea"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "На какие группы делятся мышцы таза по топографическому принципу?",
+    "options": [
+      "наружные и внутренние мышцы",
+      "передние и медиальные мышцы",
+      "латеральные и медиальные мышцы",
+      "поверхностные и глубокие мышцы"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Куда прикрепляется m. gluteus maximus?",
+    "options": [
+      "к tuberositas glutea ossis femoris",
+      "к trochanter major ossis femoris",
+      "к trochanter minor ossis femoris",
+      "к linea pectinea ossis femoris"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая мышца тазового пояса начинается от седалищного бугра?",
+    "options": [
+      "m. gemellus inferior",
+      "m. obturatorius externus",
+      "m. gluteus minimus",
+      "m. piriformis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие мышцы таза начинаются от края запирательного отверстия?",
+    "options": [
+      "m. obturatorius externus et m. obturatorius internus",
+      "m. gluteus minimus et m. gluteus medius",
+      "m. piriformis et m. tensor fasciae latae",
+      "m. gemellus internus et m. quadratus femoris"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Куда прикрепляется m. gluteus minimus?",
+    "options": [
+      "к trochanter major",
+      "к trochanter minor",
+      "к linea pectinea",
+      "к tuberositas glutea"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Куда прикрепляется m. gluteus medius?",
+    "options": [
+      "к trochanter major",
+      "к trochanter minor",
+      "к linea pectinea",
+      "к tuberositas glutea"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сухожилия каких мышц вплетаются в tractus iliotibialis?",
+    "options": [
+      "m. gluteus maximus, m. tensor fasciae latae",
+      "m. quadratus femoris, m. iliacus",
+      "m. gemellus internus et m. quadratus femoris",
+      "m. obturatorius externus et m. obturatorius internus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Укажите основную функцию tractus iliotibialis.",
+    "options": [
+      "стабилизация коленного сустава в разогнутом положении",
+      "удерживает вертикальное положение",
+      "поднимает туловище из горизонтального положения",
+      "подтягивание туловища при фиксированных руках"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "На какие группы делят мышцы бедра?",
+    "options": [
+      "передняя, медиальная и задняя группы",
+      "передняя и задняя группы",
+      "передняя, латеральная и задняя группы",
+      "поверхностные и глубокие мышцы"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие мышцы расположены в передней группе мышц бедра?",
+    "options": [
+      "m. sartorius, m. quadriceps femoris",
+      "m. gracilis, m. adductor longus",
+      "m. pectineus, m. semitendinosus",
+      "m. biceps femoris, m. semimembranosus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "К какой группе мышц относится m. articularis genus?",
+    "options": [
+      "передняя группа мышц бедра",
+      "латеральная группа мышц голени",
+      "подошвенные мышцы стопы",
+      "внутренние мышцы таза"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие мышцы относятся к внутренним мышцам тазового пояса?",
+    "options": [
+      "m. psoas minor, m. obturatorius internus",
+      "m. gluteus minimus, m. quadratus femoris",
+      "m.piriformis , m. tensor fasciae latae",
+      "m. gemellus superior, m. gluteus maximus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где начинается m. sartorius?",
+    "options": [
+      "от spina iliaca anterior superior",
+      "от spina iliaca posterior inferior",
+      "от tuber ischiadicum",
+      "от spina ischiadica"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Куда прикрепляется m. sartorius?",
+    "options": [
+      "tuberositas tibia",
+      "caput fibulae",
+      "linea aspera",
+      "condylus laterale femoris"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько мышц участвует в образовании m. quadriceps femoris?",
+    "options": [
+      "4",
+      "3",
+      "5",
+      "1"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие мышцы участвуют в образовании m. quadriceps femoris?",
+    "options": [
+      "m. vastus lateralis, m. rectus femoris",
+      "m. gracilis, m. sartorius",
+      "m. biceps femoris, m. semitendinosus",
+      "m. vastus medialis, m. pectineus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите головки m. rectus femoris.",
+    "options": [
+      "caput rectum et caput reflexum",
+      "caput longum et caput breve",
+      "caput medialis et caput lateralis",
+      "caput anterius et caput posterius"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Укажите функцию передней группы мышц бедра",
+    "options": [
+      "разгибание голени",
+      "приведение бедра",
+      "сгибание таза",
+      "ротация стопы"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие по функции мышцы находятся в медиальной группе мышц бедра?",
+    "options": [
+      "приводящие мышцы",
+      "разгибатели голени",
+      "сгибатели таза",
+      "ротаторы стопы"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие по функции мышцы находятся в задней группе мышц бедра?",
+    "options": [
+      "сгибатели голени",
+      "разгибатели стопы",
+      "отводящие мышцы",
+      "ротаторы таза"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где начинается caput reflexum m. rectus femoris?",
+    "options": [
+      "от верхнего края acetabulum",
+      "от spina iliaca posterior inferior",
+      "от tuber ischiadicum",
+      "от spina ischiadica"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Куда прикрепляется m. quadriceps femoris?",
+    "options": [
+      "к верхушке и боковым краям patella",
+      "к condylus medialis femoris",
+      "к condylus lateralis femoris",
+      "к caput fibulae"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие мышцы относятся к наружным мышцам тазового пояса?",
+    "options": [
+      "m. gluteus minimus, m. quadratus femoris",
+      "m. psoas minor, m. obturatorius internus",
+      "m.piriformis, m. tensor fasciae latae",
+      "m. iliopsoas, m. gemellus inferior"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Укажите функцию m. quadriceps femoris",
+    "options": [
+      "разгибает голень в коленном суставе",
+      "разгибает бедро в тазобедренном суставе",
+      "ротирует голень",
+      "супинирует стопу"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая мышца бедра подтягивает капсулу коленного сустава вверх при разгибании голени?",
+    "options": [
+      "m. articularis genus",
+      "m. quadriceps femoris",
+      "m. gracilis",
+      "m. pectineus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите мышцы, относящиеся к медиальной группе мышц бедра.",
+    "options": [
+      "m. gracilis, m. adductor longus, m. adductor magnus",
+      "m. vastus lateralis, m. vastus intermedius, m. vastus medialis",
+      "m. biceps femoris, m. semitendinosus, m. semimembranosus",
+      "m. sartorius, m. quadriceps femoris"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие мышцы относятся к задней группе мышц бедра?",
+    "options": [
+      "m. biceps femoris, m. semitendinosus, m. semimembranosus",
+      "m. vastus lateralis, m. vastus intermedius, m. vastus medialis",
+      "m. gracilis, m. adductor longus, m. adductor magnus",
+      "m. sartorius, m. quadriceps femoris"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сухожилия каких мышц образуют поверхностную гусиную лапку?",
+    "options": [
+      "m. gracilis, m. sartorius, m. semitendinosus",
+      "m. pectineus, m. vastus lateralis, m. articularis genus",
+      "m. adductor longus, m. adductor brevis, m. adductor magnus",
+      "m. vastus lateralis, m. vastus intermedius, m. vastus medialis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сухожилие какой мышцы образует глубокую гусиную лапку?",
+    "options": [
+      "m. semimembranosus",
+      "m. semitendinosus",
+      "m. biceps femoris",
+      "m. adductor magnus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где начинается m. gracilis?",
+    "options": [
+      "corpus et ramus inferior ossis pubici",
+      "corpus et ramus ossis icshiadici",
+      "spina iliaca posterior inferior",
+      "spina iliaca anterior inferior"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Куда прикрепляется m. pectineus?",
+    "options": [
+      "к linea pectinea",
+      "к trochanter major",
+      "к linea aspera",
+      "к tuberositas glutea"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите основную функцию m. pectineus",
+    "options": [
+      "приводит и сгибает бедро в тазобедренном суставе",
+      "стабилизирует и разгибает голень в коленном суставе",
+      "ротирует бедро и голень кнутри",
+      "участвует в подошвенном сгибании стопы"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие мышцы прикрепляются к labium mediale lineae asperae?",
+    "options": [
+      "приводящие мышцы бедра",
+      "разгибатели голени",
+      "внутренние мышцы таза",
+      "сгибатели стопы и пальцев"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Из каких частей состоит m. iliopsoas?",
+    "options": [
+      "m. iliacus et m. psoas major",
+      "m. psoas major et m. psoas minor",
+      "m. gemellus superior et m. gemellus inferior",
+      "m. obturatorius internus et m. piriformis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите головки двуглавой мышцы бедра",
+    "options": [
+      "caput longum et caput breve",
+      "caput rectum et caput reflexum",
+      "caput medialis et caput lateralis",
+      "caput obliquum et caput transversum"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где начинается длинная головка двуглавой мышцы бедра?",
+    "options": [
+      "tuber ischiadicum",
+      "labium laterale lineae asperae",
+      "spina iliaca posterior superior",
+      "spina ischiadica"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где начинается короткая головка двуглавой мышцы бедра?",
+    "options": [
+      "labium laterale lineae asperae",
+      "spina iliaca posterior superior",
+      "spina ischiadica",
+      "tuber ischiadicum"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Куда прикрепляется m. biceps femoris?",
+    "options": [
+      "caput fabullae",
+      "condylus lateralis tibiae",
+      "tuberositas tibia",
+      "corpus fibulae"
+    ],
+    "answer": 0
+  }
+]

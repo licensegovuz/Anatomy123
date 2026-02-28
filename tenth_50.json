@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Какое соединение костей называется synarthrosis?",
+    "options": [
+      "непрерывное соединение костей",
+      "прерывное соединение костей",
+      "подвижное соединение костей",
+      "синовиальное соединение"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что относится к полупрерывным соединениям?",
+    "options": [
+      "symphyses",
+      "gomphosis",
+      "schindylesis",
+      "fonticulus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где располагаются симфизы?",
+    "options": [
+      "строго по центру скелета",
+      "в верхних конечностях",
+      "в нижних конечностях",
+      "в области пояса верхней конечности"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие кости соединяются при помощи симфиза?",
+    "options": [
+      "лобковые кости между собой",
+      "позвонки между собой",
+      "кости предплечья и запястья",
+      "кости бедра и голени"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Укажите виды костных швов в зависимости от формы краев соединяющихся костей?",
+    "options": [
+      "sutura plana, sutura squamosa, sutura serrata",
+      "sutura lateralis, sutura mediana, sutura medialis",
+      "sutura obliqua, sutura recta, sutura hiasmaticа",
+      "sutura transversa, sutura perpendicularia, sutura horizontalia"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какую функцию выполняет synarthrosis?",
+    "options": [
+      "все перечисленное",
+      "предотвращение смещения костей при совместной работе",
+      "обеспечение соединению костей максимальной неподвижности",
+      "являются местом прикрепления мышц"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие кости соединяет sutura coronoidea?",
+    "options": [
+      "лобную кость с теменными костями",
+      "теменные кости",
+      "теменные кости с затылочной костью",
+      "чешую височной кости с крылом клиновидной кости"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие кости соединяет sutura sagittalis?",
+    "options": [
+      "теменные кости",
+      "теменные кости и затылочную кость",
+      "чешую височной кости и крыло клиновидной кости",
+      "лобную кость и теменные кости"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "На соединении каких костей расположен sutura lambdoidea?",
+    "options": [
+      "между теменными и затылочной костями",
+      "между чешуёй височной кости и крылом клиновидной кости",
+      "между лобной и теменными костями",
+      "между теменными костями"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какое соединение относится к gomphosis?",
+    "options": [
+      "корень зуба с альвеолой",
+      "кости черепа",
+      "кости предплечья между собой",
+      "лобковые кости между собой"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что относится к временным синхондрозам?",
+    "options": [
+      "clivus до 25 лет",
+      "sacrum после 20 лет",
+      "discus intervertebralis до 50 лет",
+      "хрящ в области foramen lacerum"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что относится к постоянным синхондрозам?",
+    "options": [
+      "хрящ в области foramen lacerum",
+      "хрящевые прослойки между vertebrae sacrales",
+      "хрящ между костями таза в области acetabulum",
+      "хрящевые прослойки в области clivus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что относится к основным элементам сустава?",
+    "options": [
+      "facies articulares, capsula articularis",
+      "bursae synoviales, plicaе adiposae",
+      "discus articularis, ligamentum capsularum",
+      "plicae synoviales, labra articulares"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите характерный признак synarthrosis",
+    "options": [
+      "между костями полость отсутствует",
+      "между сочленяющимися костями имеется полость",
+      "соединение костей подвижное",
+      "на месте соединения имеется капсула"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что является вспомогательным элементом сустава?",
+    "options": [
+      "discus articularis",
+      "facies articulares",
+      "capsula articularis",
+      "cavitas articularis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие суставные поверхности называются конгруэнтными?",
+    "options": [
+      "если соответствуют по форме и размеру",
+      "если покрыты гиалиновым хрящом",
+      "если покрыты волокнистым хрящом",
+      "если разнятся по радиусу кривизны"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Укажите слои capsula articularis",
+    "options": [
+      "membrana fibrosa et membrana synovialis",
+      "membrana externa et membrane interna",
+      "membrane dextra et membrana sinistra",
+      "membrana anterior et membrana posterior"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какую функцию выполняет membrana synovialis capsulae articularis?",
+    "options": [
+      "образование суставной жидкости",
+      "укрепление сустава",
+      "усиление трения суставных концов",
+      "увеличение конгруэнтности сустава"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что относится к вспомогательным элементам сустава?",
+    "options": [
+      "производные суставного хряща",
+      "суставная капсула",
+      "суставные поверхности",
+      "суставная полость"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что относится к производным суставного хряща?",
+    "options": [
+      "labrum articulare",
+      "bursae synoviales",
+      "plicae synoviales",
+      "villi synoviales"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что относится к производным синовиальной оболочки?",
+    "options": [
+      "bursae synoviales",
+      "labrum articularis",
+      "discus articularis",
+      "meniscus articularis"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где находятся ligamenta intracapsularia?",
+    "options": [
+      "в полости сустава",
+      "в толще фиброзной оболочки",
+      "вне полости сустава",
+      "снаружи суставной капсулы"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где располагаются ligamenta capsularia?",
+    "options": [
+      "вплетены в фиброзный слой капсулы сустава",
+      "вплетены в синовиальный слой капсулы сустава",
+      "вне полости сустава",
+      "в полости сустава"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие виды суставов выделяют по числу суставных поверхностей?",
+    "options": [
+      "articulatio simplex et articulatio composita",
+      "articulatio combinatoria et articulatio complexa",
+      "articulatio condylare et articulatio epicondylare",
+      "articulatio composita et articulatio plana"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какое соединение костей называется diarthrosis?",
+    "options": [
+      "подвижное соединение костей",
+      "непрерывное соединение костей",
+      "соединение костей при помощи связок",
+      "соединение костей при помощи швов"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какой сустав называется articulatio combinatoria?",
+    "options": [
+      "анатомически изолированные суставы, функционирующие одновременно",
+      "суставы, имеющие 3 и более суставных поверхностей",
+      "суставы, в полости которых имеется суставной диск",
+      "суставы, в полости которых имеются внутрикапсульные связки"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какой сустав является комбинированным?",
+    "options": [
+      "articulatio temporomandibularis",
+      "articulatio interphalangea pedis",
+      "articulatio cubiti",
+      "articulatio genus"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие виды движений выполняются во фронтальной плоскости?",
+    "options": [
+      "flexio et extensio",
+      "adductio et abductio",
+      "rotatio",
+      "circumductio"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие виды движений выполняются в сагиттальной плоскости?",
+    "options": [
+      "adductio et abductio",
+      "flexio et extensio",
+      "rotatio",
+      "circumductio"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие виды движений выполняются вокруг вертикальной оси?",
+    "options": [
+      "rotatio",
+      "flexio et extensio",
+      "adductio et abductio",
+      "circumductio"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какой вид движения называется circumductio?",
+    "options": [
+      "круговое движение при переходе с одной оси движения на другую",
+      "вращательные движения вокруг вертикальной оси",
+      "отводящие движение в сагиттальной плоскости",
+      "сгибательные движение во фронтальной плоскости"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие по форме суставы относятся к одноосным?",
+    "options": [
+      "блоковидный, вращательный",
+      "седловидный, эллипсовидный",
+      "шаровидный, чашеобразный",
+      "цилиндрический, плоский"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие по форме суставы относятся к двухосным?",
+    "options": [
+      "седловидный, эллипсовидный",
+      "блоковидные, вращательные",
+      "шаровидный, чашеобразный",
+      "цилиндрический, плоский"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие по форме суставы относятся к многоосным?",
+    "options": [
+      "шаровидный, плоский",
+      "седловидный, мыщелковый",
+      "блоковидные, вращательные",
+      "цилиндрический, чашеобразный"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Дайте характеристику articulatio temporomandibularis",
+    "options": [
+      "сустав сложный, комплексный, комбинированный",
+      "сустав простой, некомплексный, некомбинированный",
+      "сустав простой, комплексный, комбинированный",
+      "сустав сложный, комплексный, некомбинированный"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите характерный признак diarthrosis",
+    "options": [
+      "между сочленяющимися костями имеется полость",
+      "соединения костей посредством соединительной ткани",
+      "соединения костей посредством хрящевой ткани",
+      "между сочленяющимися костями имеется межкостная перепонка"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Чем образован височно-нижнечелюстной сустав?",
+    "options": [
+      "caput mandibulae, fossa mandibularis",
+      "fossa mandibularis, tuberculum mandibularis",
+      "processus condylaris, processus coronoideus",
+      "caput mandibulae, collum mandibulae"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие связки укрепляют височно-нижнечелюстной сустав?",
+    "options": [
+      "ligg. laterale, sphenomandibulare, stylomandibulare",
+      "ligg. interspinalia, medialis, nuchae",
+      "ligg. alaria, supraspinale, membranatectoria",
+      "ligg. conoideum, trapezoideum, quadratum"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Сколько связок укрепляют височно-нижнечелюстной сустав?",
+    "options": [
+      "3",
+      "7",
+      "2",
+      "8"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Укажите форму височно-нижнечелюстного сустава",
+    "options": [
+      "эллипсовидный",
+      "плоский",
+      "цилиндрический",
+      "шаровидный"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие кости черепа соединяются при помощи sutura plana?",
+    "options": [
+      "кости лицевого черепа",
+      "кости предплечья",
+      "кости голени",
+      "кости таза"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какое образование участвует в образовании височно-нижнечелюстного сустава?",
+    "options": [
+      "fossa mandibularis",
+      "processus styloideus",
+      "arcus zygomaticus",
+      "tuberculum pharyngeum"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Что относится к синдесмозам позвоночного столба?",
+    "options": [
+      "ligamenta flava",
+      "disci intervertebrales",
+      "articulatio lumbosacralis",
+      "membranа tectoria"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Где расположена ligamenta flava позвоночника?",
+    "options": [
+      "между дугами позвонков",
+      "на верхушках остистых отростков позвонков",
+      "между поперечными отростками позвонков",
+      "между телами позвонков"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие связки расположены между поперечными отростками позвонков?",
+    "options": [
+      "ligamenta intertransversaria",
+      "ligamenta interspinalia",
+      "ligamentum supraspinale",
+      "ligamentum nuchae"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какие связки расположены между остистыми отростками позвонков?",
+    "options": [
+      "ligamenta interspinalia",
+      "ligamenta intertransversaria",
+      "ligamenta flava",
+      "ligamentum supraspinale"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какое соединение костей относится к diarthrosis?",
+    "options": [
+      "articulatio",
+      "syndesmosis",
+      "synchondroses",
+      "synostoses"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Какая связка проходит по верхушкам остистых отростков?",
+    "options": [
+      "ligamentum supraspinale",
+      "ligamenta flava",
+      "ligamenta intertransversaria",
+      "ligamentum nuchae"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите связку позвоночника, идущую вдоль передней поверхности тел позвонков и межпозвоночных дисков?",
+    "options": [
+      "ligamentum longitudinale anterius",
+      "ligamenta flava",
+      "ligamentum supraspinale",
+      "ligamentum nuchae"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Назовите связку позвоночника, идущую вдоль задней поверхности тел позвонков и межпозвоночных дисков?",
+    "options": [
+      "ligamentum longitudinale posterius",
+      "ligamenta flava",
+      "ligamentum supraspinale",
+      "ligamentum nuchae"
+    ],
+    "answer": 0
+  }
+]
